@@ -3,7 +3,9 @@
 ## Dados da empresa
 - **Nome:** Stage Motors
 - **Tipo:** Revenda de veículos seminovos
-- **Localização:** Guararapes, Fortaleza - CE
+- **Endereco:** Av. Coronel Miguel Dias, 356 — Guararapes, Fortaleza/CE
+- **WhatsApp:** (85) 99648-2850
+- **Instagram:** @stage.motors
 - **Ticket médio:** ~R$100.000
 - **Volume:** ~40 veículos/mês em estoque
 - **Sócio:** Vinícius (parceiro)
