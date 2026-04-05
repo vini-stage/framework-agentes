@@ -126,7 +126,7 @@ IPVA 2026: [Pago]  ← SÓ incluir esta linha se o IPVA estiver PAGO
 ```
 Stage Motors
 Av. Coronel Miguel Dias, 356 — Guararapes, Fortaleza/CE
-WhatsApp: (85) 99648-2850
+WhatsApp: (85) 99934-2715
 Instagram: @stage.motors
 ```
 
@@ -163,7 +163,7 @@ Destaques principais do veículo em formato escaneável. Use emojis com moderaç
 **CTA (2 linhas)**
 Chamada para ação direta com contato.
 > Exemplo:
-> "Chama no WhatsApp (85) 99648-2850 ou passa na loja!
+> "Chama no WhatsApp (85) 99934-2715 ou passa na loja!
 > Av. Coronel Miguel Dias, 356 — Guararapes"
 
 **Hashtags (bloco separado, 15-20)**
@@ -288,7 +288,7 @@ IPVA 2026: Pago
 
 Stage Motors
 Av. Coronel Miguel Dias, 356 — Guararapes, Fortaleza/CE
-WhatsApp: (85) 99648-2850
+WhatsApp: (85) 99934-2715
 Instagram: @stage.motors
 
 ---
@@ -302,7 +302,7 @@ Esse Toyota Corolla XEi 2023 é daqueles que não dura no estoque.
 🔹 CVT, 7 airbags, faróis full LED
 🔹 IPVA 2026 pago, pronto pra transferir
 
-Chama no WhatsApp (85) 99648-2850 ou passa na loja!
+Chama no WhatsApp (85) 99934-2715 ou passa na loja!
 Av. Coronel Miguel Dias, 356 — Guararapes
 
 .
