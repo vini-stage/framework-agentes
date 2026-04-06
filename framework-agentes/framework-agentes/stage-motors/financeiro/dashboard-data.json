@@ -3,9 +3,9 @@
     "loja": "Stage Motors",
     "periodo_atual": "2026-03",
     "tipo": "fechado",
-    "atualizado_em": "2026-04-05",
+    "atualizado_em": "2026-04-06",
     "moeda": "BRL",
-    "fonte": "DRE + 6 relatórios Revenda Mais (export 05/04/2026)"
+    "fonte": "Revenda Mais (auto-import)"
   },
   "periodos_disponiveis": [
     {
@@ -32,9 +32,9 @@
   "dados_por_periodo": {
     "2026-01": {
       "veiculos_vendidos": 9,
-      "receita_bruta": 760950,
-      "receita_venda_veiculos": 754100,
-      "receita_despachante": 6850,
+      "receita_bruta": 760950.0,
+      "receita_venda_veiculos": 754100.0,
+      "receita_despachante": 6850.0,
       "cmv": 711365.98,
       "cmv_entrada_mercadorias": 653265.0,
       "cmv_custo_lancamentos": 47505.01,
@@ -44,20 +44,56 @@
       "margem_bruta_por_veiculo": 5509.34,
       "outras_receitas_total": 6708.57,
       "despesas": {
+        "administrativo": {
+          "total": 13850.87,
+          "itens": {
+            "Associações": 300.0,
+            "Contador": 1021.25,
+            "Correios": 0.0,
+            "Material escritório": 55.8,
+            "Limpeza/cantina": 1176.69,
+            "Outras": 0.0,
+            "Seguros": 1750.46,
+            "Software": 6868.06,
+            "Uber/táxi": 393.08,
+            "Confraternização": 2285.53,
+            "HME": 0.0,
+            "Lavacar (produtos)": 0.0
+          }
+        },
         "pessoal": {
           "total": 11158.0,
           "itens": {
-            "Comissões sobre vendas": 3175,
-            "Ajuda de custo": 1620,
-            "Horas extras": 0,
-            "Lavador/polidor": 2621,
-            "Salários administrativo": 3742
+            "Comissões sobre vendas": 3175.0,
+            "13º salário": 0.0,
+            "Ajuda de custo": 1620.0,
+            "Gratificações": 0.0,
+            "Horas extras": 0.0,
+            "Lavador/polidor": 2621.0,
+            "Salários administrativo": 3742.0
           }
         },
-        "pro_labore": {
-          "total": 13000.0,
+        "impostos": {
+          "total": 15085.12,
           "itens": {
-            "Pró-labore sócios": 13000
+            "IMPOSTOS - COFINS": 1610.39,
+            "IMPOSTOS - CSLL": 3498.03,
+            "IMPOSTOS - DARF": 31.45,
+            "IMPOSTOS - FGTS": 374.98,
+            "IMPOSTOS - FGTS ADM": 182.0,
+            "IMPOSTOS - ICMS": 1416.98,
+            "IMPOSTOS - INSS": 1500.53,
+            "IMPOSTOS - IRPJ": 5199.18,
+            "IMPOSTOS - ISS": 922.66,
+            "IMPOSTOS - PIS": 348.92
+          }
+        },
+        "utilidades": {
+          "total": 1217.96,
+          "itens": {
+            "Água": 44.0,
+            "Energia elétrica": 991.3,
+            "Internet": 182.66
           }
         },
         "ocupacao": {
@@ -65,66 +101,28 @@
           "itens": {
             "Aluguéis": 7236.51,
             "Construção": 2333.34,
-            "Segurança": 200
+            "Segurança": 200.0
           }
         },
-        "utilidades": {
-          "total": 1217.96,
+        "investimentos": {
+          "total": 214.08,
           "itens": {
-            "Água": 44,
-            "Energia elétrica": 991.3,
-            "Internet": 182.66
-          }
-        },
-        "marketing": {
-          "total": 4119.7,
-          "itens": {
-            "Publicidade": 4119.7,
-            "Brindes": 0
-          }
-        },
-        "administrativo": {
-          "total": 13850.87,
-          "itens": {
-            "Contador": 1021.25,
-            "Software": 6868.06,
-            "Seguros": 1750.46,
-            "Material escritório": 55.8,
-            "Limpeza/cantina": 1176.69,
-            "Associações": 300,
-            "Uber/táxi": 393.08,
-            "Confraternização": 2285.53,
-            "Correios": 0,
-            "Outras": 0,
-            "Lavacar (produtos)": 0
-          }
-        },
-        "impostos": {
-          "total": 15085.12,
-          "itens": {
-            "COFINS": 1610.39,
-            "CSLL": 3498.03,
-            "DARF": 31.45,
-            "FGTS": 374.98,
-            "FGTS ADM": 182,
-            "ICMS": 1416.98,
-            "INSS": 1500.53,
-            "IRPJ": 5199.18,
-            "ISS": 922.66,
-            "PIS": 348.92
+            "Equipamentos": 0.0,
+            "Outros": 214.08
           }
         },
         "manutencao": {
           "total": 4791.31,
           "itens": {
-            "Equipamentos": 0,
+            "Equipamentos": 0.0,
             "Veículos em garantia": 4791.31
           }
         },
-        "veiculos_uso": {
-          "total": 258.52,
+        "marketing": {
+          "total": 4119.7,
           "itens": {
-            "Combustível/lubrificantes": 258.52
+            "Brindes": 0.0,
+            "Publicidade": 4119.7
           }
         },
         "financeiras": {
@@ -133,11 +131,16 @@
             "Empréstimos": 8645.16
           }
         },
-        "investimentos": {
-          "total": 214.08,
+        "pro_labore": {
+          "total": 13000.0,
           "itens": {
-            "Equipamentos": 0,
-            "Outros": 214.08
+            "Pró-labore sócios": 13000.0
+          }
+        },
+        "veiculos_uso": {
+          "total": 258.52,
+          "itens": {
+            "Combustível/lubrificantes": 258.52
           }
         }
       },
@@ -150,9 +153,9 @@
     },
     "2026-02": {
       "veiculos_vendidos": 12,
-      "receita_bruta": 1252000,
-      "receita_venda_veiculos": 1245600,
-      "receita_despachante": 6400,
+      "receita_bruta": 1252000.0,
+      "receita_venda_veiculos": 1245600.0,
+      "receita_despachante": 6400.0,
       "cmv": 1183777.99,
       "cmv_entrada_mercadorias": 1112012.8,
       "cmv_custo_lancamentos": 63615.52,
@@ -162,20 +165,56 @@
       "margem_bruta_por_veiculo": 5685.17,
       "outras_receitas_total": 13536.71,
       "despesas": {
+        "administrativo": {
+          "total": 12997.92,
+          "itens": {
+            "Associações": 300.0,
+            "Contador": 1090.6,
+            "Correios": 0.0,
+            "Material escritório": 0.0,
+            "Limpeza/cantina": 122.35,
+            "Outras": 0.0,
+            "Seguros": 1750.46,
+            "Software": 7436.91,
+            "Uber/táxi": 547.56,
+            "Confraternização": 262.44,
+            "HME": 0.0,
+            "Lavacar (produtos)": 1487.6
+          }
+        },
         "pessoal": {
           "total": 11413.0,
           "itens": {
-            "Comissões sobre vendas": 3350,
-            "Ajuda de custo": 1500,
-            "Horas extras": 200,
-            "Lavador/polidor": 3121,
-            "Salários administrativo": 3242
+            "Comissões sobre vendas": 3350.0,
+            "13º salário": 0.0,
+            "Ajuda de custo": 1500.0,
+            "Gratificações": 0.0,
+            "Horas extras": 200.0,
+            "Lavador/polidor": 3121.0,
+            "Salários administrativo": 3242.0
           }
         },
-        "pro_labore": {
-          "total": 13000.0,
+        "impostos": {
+          "total": 4942.09,
           "itens": {
-            "Pró-labore sócios": 13000
+            "IMPOSTOS - COFINS": 699.47,
+            "IMPOSTOS - CSLL": 0.0,
+            "IMPOSTOS - DARF": 0.0,
+            "IMPOSTOS - FGTS": 398.4,
+            "IMPOSTOS - FGTS ADM": 0.0,
+            "IMPOSTOS - ICMS": 1480.2,
+            "IMPOSTOS - INSS": 1599.7,
+            "IMPOSTOS - IRPJ": 0.0,
+            "IMPOSTOS - ISS": 612.77,
+            "IMPOSTOS - PIS": 151.55
+          }
+        },
+        "utilidades": {
+          "total": 1080.29,
+          "itens": {
+            "Água": 44.0,
+            "Energia elétrica": 1036.29,
+            "Internet": 0.0
           }
         },
         "ocupacao": {
@@ -183,66 +222,28 @@
           "itens": {
             "Aluguéis": 7236.43,
             "Construção": 2333.33,
-            "Segurança": 200
+            "Segurança": 200.0
           }
         },
-        "utilidades": {
-          "total": 1080.29,
+        "investimentos": {
+          "total": 1135.02,
           "itens": {
-            "Água": 44,
-            "Energia elétrica": 1036.29,
-            "Internet": 0
-          }
-        },
-        "marketing": {
-          "total": 8186.25,
-          "itens": {
-            "Publicidade": 5711.75,
-            "Brindes": 2474.5
-          }
-        },
-        "administrativo": {
-          "total": 12997.92,
-          "itens": {
-            "Contador": 1090.6,
-            "Software": 7436.91,
-            "Seguros": 1750.46,
-            "Limpeza/cantina": 122.35,
-            "Associações": 300,
-            "Uber/táxi": 547.56,
-            "Confraternização": 262.44,
-            "Lavacar (produtos)": 1487.6,
-            "Material escritório": 0,
-            "Correios": 0,
-            "Outras": 0
-          }
-        },
-        "impostos": {
-          "total": 4942.09,
-          "itens": {
-            "COFINS": 699.47,
-            "FGTS": 398.4,
-            "ICMS": 1480.2,
-            "INSS": 1599.7,
-            "ISS": 612.77,
-            "PIS": 151.55,
-            "CSLL": 0,
-            "DARF": 0,
-            "FGTS ADM": 0,
-            "IRPJ": 0
+            "Equipamentos": 920.98,
+            "Outros": 214.04
           }
         },
         "manutencao": {
           "total": 5459.93,
           "itens": {
-            "Equipamentos": 0,
+            "Equipamentos": 0.0,
             "Veículos em garantia": 5459.93
           }
         },
-        "veiculos_uso": {
-          "total": 861.31,
+        "marketing": {
+          "total": 8186.25,
           "itens": {
-            "Combustível/lubrificantes": 861.31
+            "Brindes": 2474.5,
+            "Publicidade": 5711.75
           }
         },
         "financeiras": {
@@ -251,11 +252,16 @@
             "Empréstimos": 8668.61
           }
         },
-        "investimentos": {
-          "total": 1135.02,
+        "pro_labore": {
+          "total": 13000.0,
           "itens": {
-            "Equipamentos": 920.98,
-            "Outros": 214.04
+            "Pró-labore sócios": 13000.0
+          }
+        },
+        "veiculos_uso": {
+          "total": 861.31,
+          "itens": {
+            "Combustível/lubrificantes": 861.31
           }
         }
       },
@@ -268,9 +274,9 @@
     },
     "2026-03": {
       "veiculos_vendidos": 11,
-      "receita_bruta": 1398200,
-      "receita_venda_veiculos": 1394900,
-      "receita_despachante": 3300,
+      "receita_bruta": 1398200.0,
+      "receita_venda_veiculos": 1394900.0,
+      "receita_despachante": 3300.0,
       "cmv": 1266512.68,
       "cmv_entrada_mercadorias": 1226590.23,
       "cmv_custo_lancamentos": 33946.96,
@@ -280,100 +286,103 @@
       "margem_bruta_por_veiculo": 11971.57,
       "outras_receitas_total": 9199.2,
       "despesas": {
+        "administrativo": {
+          "total": 10375.58,
+          "itens": {
+            "Associações": 300.0,
+            "Contador": 1090.6,
+            "Correios": 29.7,
+            "Material escritório": 0.0,
+            "Limpeza/cantina": 144.58,
+            "Outras": 214.04,
+            "Seguros": 1750.5,
+            "Software": 6846.16,
+            "Uber/táxi": 0.0,
+            "Confraternização": 0.0,
+            "HME": 0.0,
+            "Lavacar (produtos)": 0.0
+          }
+        },
         "pessoal": {
           "total": 9334.0,
           "itens": {
-            "Comissões sobre vendas": 2275,
-            "Ajuda de custo": 1896,
-            "Horas extras": 0,
-            "Lavador/polidor": 1921,
-            "Salários administrativo": 3242
+            "Comissões sobre vendas": 2275.0,
+            "13º salário": 0.0,
+            "Ajuda de custo": 1896.0,
+            "Gratificações": 0.0,
+            "Horas extras": 0.0,
+            "Lavador/polidor": 1921.0,
+            "Salários administrativo": 3242.0
           }
         },
-        "pro_labore": {
-          "total": 13000.0,
+        "impostos": {
+          "total": 5038.99,
           "itens": {
-            "Pró-labore sócios": 13000
+            "IMPOSTOS - COFINS": 818.45,
+            "IMPOSTOS - CSLL": 0.0,
+            "IMPOSTOS - DARF": 0.0,
+            "IMPOSTOS - FGTS": 398.4,
+            "IMPOSTOS - FGTS ADM": 0.0,
+            "IMPOSTOS - ICMS": 1480.2,
+            "IMPOSTOS - INSS": 1639.44,
+            "IMPOSTOS - IRPJ": 0.0,
+            "IMPOSTOS - ISS": 525.17,
+            "IMPOSTOS - PIS": 177.33
+          }
+        },
+        "utilidades": {
+          "total": 1205.19,
+          "itens": {
+            "Água": 0.0,
+            "Energia elétrica": 955.21,
+            "Internet": 249.98
           }
         },
         "ocupacao": {
           "total": 7436.43,
           "itens": {
             "Aluguéis": 7236.43,
-            "Construção": 0,
-            "Segurança": 200
+            "Construção": 0.0,
+            "Segurança": 200.0
           }
         },
-        "utilidades": {
-          "total": 1205.19,
+        "investimentos": {
+          "total": 0.0,
           "itens": {
-            "Água": 0,
-            "Energia elétrica": 955.21,
-            "Internet": 249.98
-          }
-        },
-        "marketing": {
-          "total": 2987.72,
-          "itens": {
-            "Publicidade": 2987.72,
-            "Brindes": 0
-          }
-        },
-        "administrativo": {
-          "total": 10375.58,
-          "itens": {
-            "Contador": 1090.6,
-            "Software": 6846.16,
-            "Seguros": 1750.5,
-            "Limpeza/cantina": 144.58,
-            "Associações": 300,
-            "Correios": 29.7,
-            "Outras": 214.04,
-            "Uber/táxi": 0,
-            "Confraternização": 0,
-            "Material escritório": 0,
-            "Lavacar (produtos)": 0
-          }
-        },
-        "impostos": {
-          "total": 5038.99,
-          "itens": {
-            "COFINS": 818.45,
-            "FGTS": 398.4,
-            "ICMS": 1480.2,
-            "INSS": 1639.44,
-            "ISS": 525.17,
-            "PIS": 177.33,
-            "CSLL": 0,
-            "DARF": 0,
-            "FGTS ADM": 0,
-            "IRPJ": 0
+            "Equipamentos": 0.0,
+            "Outros": 0.0
           }
         },
         "manutencao": {
           "total": 6946.12,
           "itens": {
-            "Equipamentos": 180,
+            "Equipamentos": 180.0,
             "Veículos em garantia": 6766.12
+          }
+        },
+        "marketing": {
+          "total": 2987.72,
+          "itens": {
+            "Brindes": 0.0,
+            "Publicidade": 2987.72
+          }
+        },
+        "financeiras": {
+          "total": 6300.0,
+          "itens": {
+            "Empréstimos": 6300.0
+          }
+        },
+        "pro_labore": {
+          "total": 13000.0,
+          "itens": {
+            "Pró-labore sócios": 13000.0
           }
         },
         "veiculos_uso": {
           "total": 369.29,
           "itens": {
             "Combustível/lubrificantes": 369.29
-          }
-        },
-        "financeiras": {
-          "total": 6300.0,
-          "itens": {
-            "Empréstimos": 6300
-          }
-        },
-        "investimentos": {
-          "total": 0,
-          "itens": {
-            "Equipamentos": 0,
-            "Outros": 0
           }
         }
       },
@@ -386,105 +395,79 @@
     },
     "Q1-2026": {
       "veiculos_vendidos": 32,
-      "receita_bruta": 3411150,
-      "receita_venda_veiculos": 3394600,
-      "receita_despachante": 16550,
+      "receita_bruta": 3411150.0,
+      "receita_venda_veiculos": 3394600.0,
+      "receita_despachante": 16550.0,
       "cmv": 3161656.65,
-      "cmv_entrada_mercadorias": 2991868.03,
+      "cmv_entrada_mercadorias": 2991868.0300000003,
       "cmv_custo_lancamentos": 145067.49,
-      "cmv_custo_despachante": 24721.13,
+      "cmv_custo_despachante": 24721.129999999997,
       "lucro_bruto": 249493.35,
+      "outras_receitas_total": 29444.48,
+      "despesas_total": 222618.07,
+      "resultado": 56319.759999999995,
       "margem_bruta_pct": 7.3,
       "margem_bruta_por_veiculo": 7796.67,
-      "outras_receitas_total": 29444.48,
+      "margem_liquida_pct": 1.7,
       "despesas": {
-        "pessoal": {
-          "total": 31905.0,
-          "itens": {
-            "Comissões sobre vendas": 8800,
-            "Ajuda de custo": 5016,
-            "Horas extras": 200,
-            "Lavador/polidor": 7663,
-            "Salários administrativo": 10226
-          }
-        },
-        "pro_labore": {
-          "total": 39000.0,
-          "itens": {
-            "Pró-labore sócios": 39000
-          }
-        },
-        "ocupacao": {
-          "total": 26976.04,
-          "itens": {
-            "Aluguéis": 21709.37,
-            "Construção": 4666.67,
-            "Segurança": 600
-          }
-        },
-        "utilidades": {
-          "total": 3503.44,
-          "itens": {
-            "Água": 88,
-            "Energia elétrica": 2982.8,
-            "Internet": 432.64
-          }
-        },
-        "marketing": {
-          "total": 15293.67,
-          "itens": {
-            "Publicidade": 12819.17,
-            "Brindes": 2474.5
-          }
-        },
         "administrativo": {
           "total": 37224.37,
           "itens": {
+            "Associações": 900.0,
             "Contador": 3202.45,
-            "Software": 21151.13,
-            "Seguros": 5251.42,
-            "Limpeza/cantina": 1443.62,
-            "Associações": 900,
-            "Uber/táxi": 940.64,
-            "Confraternização": 2547.97,
-            "Lavacar (produtos)": 1487.6,
-            "Material escritório": 55.8,
             "Correios": 29.7,
-            "Outras": 214.04
+            "Material escritório": 55.8,
+            "Limpeza/cantina": 1443.62,
+            "Outras": 214.04,
+            "Seguros": 5251.42,
+            "Software": 21151.13,
+            "Uber/táxi": 940.6399999999999,
+            "Confraternização": 2547.9700000000003,
+            "HME": 0.0,
+            "Lavacar (produtos)": 1487.6
+          }
+        },
+        "pessoal": {
+          "total": 31905.0,
+          "itens": {
+            "Comissões sobre vendas": 8800.0,
+            "13º salário": 0.0,
+            "Ajuda de custo": 5016.0,
+            "Gratificações": 0.0,
+            "Horas extras": 200.0,
+            "Lavador/polidor": 7663.0,
+            "Salários administrativo": 10226.0
           }
         },
         "impostos": {
           "total": 25066.2,
           "itens": {
-            "COFINS": 3128.31,
-            "CSLL": 3498.03,
-            "DARF": 31.45,
-            "FGTS": 1171.78,
-            "FGTS ADM": 182,
-            "ICMS": 4377.38,
-            "INSS": 4739.67,
-            "IRPJ": 5199.18,
-            "ISS": 2060.6,
-            "PIS": 677.8
+            "IMPOSTOS - COFINS": 3128.3100000000004,
+            "IMPOSTOS - CSLL": 3498.03,
+            "IMPOSTOS - DARF": 31.45,
+            "IMPOSTOS - FGTS": 1171.78,
+            "IMPOSTOS - FGTS ADM": 182.0,
+            "IMPOSTOS - ICMS": 4377.38,
+            "IMPOSTOS - INSS": 4739.67,
+            "IMPOSTOS - IRPJ": 5199.18,
+            "IMPOSTOS - ISS": 2060.6,
+            "IMPOSTOS - PIS": 677.8000000000001
           }
         },
-        "manutencao": {
-          "total": 17197.36,
+        "utilidades": {
+          "total": 3503.44,
           "itens": {
-            "Equipamentos": 180,
-            "Veículos em garantia": 17017.36
+            "Água": 88.0,
+            "Energia elétrica": 2982.8,
+            "Internet": 432.64
           }
         },
-        "veiculos_uso": {
-          "total": 1489.12,
+        "ocupacao": {
+          "total": 26976.04,
           "itens": {
-            "Combustível/lubrificantes": 1489.12
-          }
-        },
-        "financeiras": {
-          "total": 23613.77,
-          "itens": {
-            "Empréstimos": 23613.77
+            "Aluguéis": 21709.370000000003,
+            "Construção": 4666.67,
+            "Segurança": 600.0
           }
         },
         "investimentos": {
@@ -493,11 +476,40 @@
             "Equipamentos": 920.98,
             "Outros": 428.12
           }
+        },
+        "manutencao": {
+          "total": 17197.36,
+          "itens": {
+            "Equipamentos": 180.0,
+            "Veículos em garantia": 17017.36
+          }
+        },
+        "marketing": {
+          "total": 15293.67,
+          "itens": {
+            "Brindes": 2474.5,
+            "Publicidade": 12819.17
+          }
+        },
+        "financeiras": {
+          "total": 23613.77,
+          "itens": {
+            "Empréstimos": 23613.77
+          }
+        },
+        "pro_labore": {
+          "total": 39000.0,
+          "itens": {
+            "Pró-labore sócios": 39000.0
+          }
+        },
+        "veiculos_uso": {
+          "total": 1489.12,
+          "itens": {
+            "Combustível/lubrificantes": 1489.12
+          }
         }
       },
-      "despesas_total": 222618.07,
-      "resultado": 56319.76,
-      "margem_liquida_pct": 1.7,
       "giro_estoque_dias": 58.4,
       "ticket_medio": 106081.0,
       "lancamentos_por_veiculo": 4533.0
@@ -506,21 +518,21 @@
   "historico_mensal": [
     {
       "periodo": "2026-01",
-      "receita": 754100,
+      "receita": 754100.0,
       "lucro_liquido": -25817.98,
       "veiculos": 9,
       "margem_bruta": 49584.02
     },
     {
       "periodo": "2026-02",
-      "receita": 1245600,
+      "receita": 1245600.0,
       "lucro_liquido": 4244.54,
       "veiculos": 12,
       "margem_bruta": 68222.01
     },
     {
       "periodo": "2026-03",
-      "receita": 1394900,
+      "receita": 1394900.0,
       "lucro_liquido": 77893.2,
       "veiculos": 11,
       "margem_bruta": 131687.32
@@ -1588,41 +1600,39 @@
   ],
   "insights_por_periodo": {
     "2026-01": [
-      "Prejuízo de R$ 25.818 no mês apesar de vender 9 carros. Margem bruta de apenas 6,5%.",
-      "Lançamentos por veículo: R$ 5.278 — média alta, indicando carros entrando com muita preparação necessária.",
-      "Tempo médio de estoque: 76 dias. Carros como Eclipse Cross (207d) e Compass (87d) puxaram pra cima.",
-      "Impostos pesaram R$ 15.085 com CSLL+IRPJ do trimestre anterior caindo em janeiro (R$ 8.697 só esses dois).",
-      "Destaque positivo: VW Golf Highline vendeu com 22,2% de margem (R$ 18.198 de lucro) em 39 dias — mostra que tem mix que funciona."
+      "Mês no vermelho: resultado de R$ -25.818. Margem bruta de 6.5%.",
+      "Giro médio de estoque: 76 dias.",
+      "Lançamentos por veículo: R$ 5.278.",
+      "Melhor venda: GOLF HIGHLINE MA (22.2%. R$ 18.198. 39d).",
+      "Pior venda: ECLIPSE CROSS HPE - S AWC AUT (-14.0%. R$ -12.261. 207d)."
     ],
     "2026-02": [
-      "Saiu do vermelho por pouco: +R$ 4.244. Maior volume do trimestre (12 carros), mas margem ainda apertada (5,4%).",
-      "L200 Triton parada 365 dias vendeu com prejuízo de R$ 13.236 + lançamentos de R$ 31.829. Case clássico de carro zumbi.",
-      "Equinox Premier (199d, 7% acima do FIPE) virou com lucro quase zero (R$ 3.739 em 199 dias). Melhor ter vendido antes.",
-      "Marketing saltou pra R$ 8.186 (brindes R$ 2.474 + publicidade R$ 5.711) — maior do tri. Vale medir o retorno.",
-      "Impostos caíram 67% vs Jan — sem CSLL/IRPJ apurados neste mês."
+      "Mês positivo: resultado de R$ 4.245 com 12 carros vendidos e margem bruta de 5.4%.",
+      "Variação vs mês anterior: +R$ 30.063 no resultado.",
+      "Giro médio de estoque: 73 dias.",
+      "Lançamentos por veículo: R$ 5.301.",
+      "Melhor venda: AMG A35SD 4M (4.7%. R$ 14.021. 79d).",
+      "Pior venda: L200 TRITON 3.2 D (-12.5%. R$ -13.236. 365d)."
     ],
     "2026-03": [
-      "Mês redondo: lucro de R$ 77.893 (138% do resultado do tri inteiro). Margem bruta explodiu pra 9,4%.",
-      "CHAVE DA VIRADA → Giro de estoque caiu pra 28 dias (vs 76 em Jan e 73 em Fev). Carros rodando 2,6x mais rápido.",
-      "Lançamentos por veículo despencaram pra R$ 3.086 (−42% vs média Jan/Fev de R$ 5.290). Menos carro problema entrando.",
-      "Top vendas do mês: Discovery Sport D200 (14,4%, R$ 34.159 lucro, 21d) e Ranger Ltd (14,5%, R$ 24.403, 28d).",
-      "Manutenção em garantia subiu pra R$ 6.766 — contraste com o resto. Curadoria melhorou na entrada mas pós-venda ainda cobra.",
-      "Despesas operacionais caíram pra R$ 62.993 (-23% vs Jan). Sem brindes, sem obra, sem investimento."
+      "Mês positivo: resultado de R$ 77.893 com 11 carros vendidos e margem bruta de 9.4%.",
+      "Variação vs mês anterior: +R$ 73.649 no resultado.",
+      "Giro médio de estoque: 28 dias.",
+      "Lançamentos por veículo: R$ 3.086.",
+      "Melhor venda: DISC SPT D200 SE (14.4%. R$ 34.159. 21d).",
+      "Pior venda: TORO VOLCANO AT D4 (-1.9%. R$ -1.398. 13d)."
     ],
     "Q1-2026": [
-      "Lucro líquido do trimestre: R$ 56.319. MAS sem Março (R$ 77.893), Q1 seria −R$ 21.573. Dependência crítica de 1 mês.",
-      "32 carros vendidos, ticket médio R$ 106.081, giro médio 58 dias. Em Março o giro caiu pra 28 — se sustentar abril, o modelo muda de patamar.",
-      "2 vendas destruíram R$ 25.497 de margem: L200 Triton (−R$13.236 em 365 dias) e Eclipse Cross (−R$12.261 em 207 dias). Padrão: carro que passa de 180 dias vira zumbi.",
-      "Pró-labore R$ 39.000 no tri é a maior linha (17,5% despesas). Software R$ 21.151 (9,5%). Manutenção garantia R$ 17.017 (R$ 531/carro vendido).",
-      "Despesas financeiras R$ 23.613 em juros de empréstimo no tri — peso relevante, entender origem (financiamento de estoque?)."
+      "Resultado do trimestre: R$ 56.320.",
+      "32 carros vendidos. ticket médio R$ 106.081.",
+      "Margem bruta média por veículo: R$ 7.797."
     ]
   },
   "insights_estoque": [
     "Capital parado em estoque: R$ 3.004.606 em 28 carros.",
-    "8 carros com +90 dias (R$ 830.800 travados) — 27.7% do capital em estoque.",
-    "Top 3 carros zumbi: Duster 4x4 (708 dias!!), Bolt Premier (285d) e Mini JCW (268d) — juntos R$ 395.500 parados.",
-    "Alerta de preço: Hyundai Creta (215d) e IX35 (145d) estão anunciados exatamente no valor de compra ou abaixo — prejuízo certo se vender.",
-    "11 carros (39% do estoque) estão acima de 60 dias. Meta: derrubar pra <30% até fim de maio."
+    "8 carros com +90 dias (R$ 830.800 travados).",
+    "Carros críticos (+180d): RENAULT DUSTER 20 D 4X4 (708d), CHEVROLET BOLT PREMIER (285d), MINI HATCH JCW 3P (268d).",
+    "11 carros (39% do estoque) acima de 60 dias."
   ],
-  "acao_sugerida": "Prioridade 1: liquidar os 3 carros zumbi do estoque atual (Duster 708d, Bolt 285d, Mini 268d) mesmo com margem reduzida — libera R$ 395.500. Prioridade 2: manter o giro de 28 dias alcançado em Março como padrão de abril. Prioridade 3: investigar por que a linha de manutenção em garantia subiu em Março (R$ 6.766) apesar da curadoria melhor na entrada."
+  "acao_sugerida": ""
 }
