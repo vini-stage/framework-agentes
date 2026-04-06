@@ -103,8 +103,8 @@ Sem contar ferramentas opcionais da Fase 4.
 | Detalhar prompt do agente de anúncios OLX | ✅ Feito |
 | Definir estrutura de pasta por carro | ✅ Feito |
 | Criar prompt para caption Instagram do veículo | ✅ Feito |
-| Testar com 5 carros reais do estoque | 🔲 Pendente |
-| Ajustar com base nos resultados | 🔲 Pendente |
+| Testar com 5 carros reais do estoque | ✅ Feito |
+| Ajustar com base nos resultados | ✅ Feito |
 
 **Total: ~9h | 3-4 sessões**
 

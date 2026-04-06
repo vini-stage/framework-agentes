@@ -1,0 +1,1628 @@
+{
+  "meta": {
+    "loja": "Stage Motors",
+    "periodo_atual": "2026-03",
+    "tipo": "fechado",
+    "atualizado_em": "2026-04-05",
+    "moeda": "BRL",
+    "fonte": "DRE + 6 relatórios Revenda Mais (export 05/04/2026)"
+  },
+  "periodos_disponiveis": [
+    {
+      "id": "2026-01",
+      "label": "Jan / 2026",
+      "tipo": "mensal"
+    },
+    {
+      "id": "2026-02",
+      "label": "Fev / 2026",
+      "tipo": "mensal"
+    },
+    {
+      "id": "2026-03",
+      "label": "Mar / 2026",
+      "tipo": "mensal"
+    },
+    {
+      "id": "Q1-2026",
+      "label": "Q1 / 2026",
+      "tipo": "trimestral"
+    }
+  ],
+  "dados_por_periodo": {
+    "2026-01": {
+      "veiculos_vendidos": 9,
+      "receita_bruta": 760950,
+      "receita_venda_veiculos": 754100,
+      "receita_despachante": 6850,
+      "cmv": 711365.98,
+      "cmv_entrada_mercadorias": 653265.0,
+      "cmv_custo_lancamentos": 47505.01,
+      "cmv_custo_despachante": 10595.97,
+      "lucro_bruto": 49584.02,
+      "margem_bruta_pct": 6.5,
+      "margem_bruta_por_veiculo": 5509.34,
+      "outras_receitas_total": 6708.57,
+      "despesas": {
+        "pessoal": {
+          "total": 11158.0,
+          "itens": {
+            "Comissões sobre vendas": 3175,
+            "Ajuda de custo": 1620,
+            "Horas extras": 0,
+            "Lavador/polidor": 2621,
+            "Salários administrativo": 3742
+          }
+        },
+        "pro_labore": {
+          "total": 13000.0,
+          "itens": {
+            "Pró-labore sócios": 13000
+          }
+        },
+        "ocupacao": {
+          "total": 9769.85,
+          "itens": {
+            "Aluguéis": 7236.51,
+            "Construção": 2333.34,
+            "Segurança": 200
+          }
+        },
+        "utilidades": {
+          "total": 1217.96,
+          "itens": {
+            "Água": 44,
+            "Energia elétrica": 991.3,
+            "Internet": 182.66
+          }
+        },
+        "marketing": {
+          "total": 4119.7,
+          "itens": {
+            "Publicidade": 4119.7,
+            "Brindes": 0
+          }
+        },
+        "administrativo": {
+          "total": 13850.87,
+          "itens": {
+            "Contador": 1021.25,
+            "Software": 6868.06,
+            "Seguros": 1750.46,
+            "Material escritório": 55.8,
+            "Limpeza/cantina": 1176.69,
+            "Associações": 300,
+            "Uber/táxi": 393.08,
+            "Confraternização": 2285.53,
+            "Correios": 0,
+            "Outras": 0,
+            "Lavacar (produtos)": 0
+          }
+        },
+        "impostos": {
+          "total": 15085.12,
+          "itens": {
+            "COFINS": 1610.39,
+            "CSLL": 3498.03,
+            "DARF": 31.45,
+            "FGTS": 374.98,
+            "FGTS ADM": 182,
+            "ICMS": 1416.98,
+            "INSS": 1500.53,
+            "IRPJ": 5199.18,
+            "ISS": 922.66,
+            "PIS": 348.92
+          }
+        },
+        "manutencao": {
+          "total": 4791.31,
+          "itens": {
+            "Equipamentos": 0,
+            "Veículos em garantia": 4791.31
+          }
+        },
+        "veiculos_uso": {
+          "total": 258.52,
+          "itens": {
+            "Combustível/lubrificantes": 258.52
+          }
+        },
+        "financeiras": {
+          "total": 8645.16,
+          "itens": {
+            "Empréstimos": 8645.16
+          }
+        },
+        "investimentos": {
+          "total": 214.08,
+          "itens": {
+            "Equipamentos": 0,
+            "Outros": 214.08
+          }
+        }
+      },
+      "despesas_total": 82110.57,
+      "resultado": -25817.98,
+      "margem_liquida_pct": -3.4,
+      "giro_estoque_dias": 76.1,
+      "ticket_medio": 83789.0,
+      "lancamentos_por_veiculo": 5278.0
+    },
+    "2026-02": {
+      "veiculos_vendidos": 12,
+      "receita_bruta": 1252000,
+      "receita_venda_veiculos": 1245600,
+      "receita_despachante": 6400,
+      "cmv": 1183777.99,
+      "cmv_entrada_mercadorias": 1112012.8,
+      "cmv_custo_lancamentos": 63615.52,
+      "cmv_custo_despachante": 8149.67,
+      "lucro_bruto": 68222.01,
+      "margem_bruta_pct": 5.4,
+      "margem_bruta_por_veiculo": 5685.17,
+      "outras_receitas_total": 13536.71,
+      "despesas": {
+        "pessoal": {
+          "total": 11413.0,
+          "itens": {
+            "Comissões sobre vendas": 3350,
+            "Ajuda de custo": 1500,
+            "Horas extras": 200,
+            "Lavador/polidor": 3121,
+            "Salários administrativo": 3242
+          }
+        },
+        "pro_labore": {
+          "total": 13000.0,
+          "itens": {
+            "Pró-labore sócios": 13000
+          }
+        },
+        "ocupacao": {
+          "total": 9769.76,
+          "itens": {
+            "Aluguéis": 7236.43,
+            "Construção": 2333.33,
+            "Segurança": 200
+          }
+        },
+        "utilidades": {
+          "total": 1080.29,
+          "itens": {
+            "Água": 44,
+            "Energia elétrica": 1036.29,
+            "Internet": 0
+          }
+        },
+        "marketing": {
+          "total": 8186.25,
+          "itens": {
+            "Publicidade": 5711.75,
+            "Brindes": 2474.5
+          }
+        },
+        "administrativo": {
+          "total": 12997.92,
+          "itens": {
+            "Contador": 1090.6,
+            "Software": 7436.91,
+            "Seguros": 1750.46,
+            "Limpeza/cantina": 122.35,
+            "Associações": 300,
+            "Uber/táxi": 547.56,
+            "Confraternização": 262.44,
+            "Lavacar (produtos)": 1487.6,
+            "Material escritório": 0,
+            "Correios": 0,
+            "Outras": 0
+          }
+        },
+        "impostos": {
+          "total": 4942.09,
+          "itens": {
+            "COFINS": 699.47,
+            "FGTS": 398.4,
+            "ICMS": 1480.2,
+            "INSS": 1599.7,
+            "ISS": 612.77,
+            "PIS": 151.55,
+            "CSLL": 0,
+            "DARF": 0,
+            "FGTS ADM": 0,
+            "IRPJ": 0
+          }
+        },
+        "manutencao": {
+          "total": 5459.93,
+          "itens": {
+            "Equipamentos": 0,
+            "Veículos em garantia": 5459.93
+          }
+        },
+        "veiculos_uso": {
+          "total": 861.31,
+          "itens": {
+            "Combustível/lubrificantes": 861.31
+          }
+        },
+        "financeiras": {
+          "total": 8668.61,
+          "itens": {
+            "Empréstimos": 8668.61
+          }
+        },
+        "investimentos": {
+          "total": 1135.02,
+          "itens": {
+            "Equipamentos": 920.98,
+            "Outros": 214.04
+          }
+        }
+      },
+      "despesas_total": 77514.18,
+      "resultado": 4244.54,
+      "margem_liquida_pct": 0.3,
+      "giro_estoque_dias": 72.8,
+      "ticket_medio": 103800.0,
+      "lancamentos_por_veiculo": 5301.0
+    },
+    "2026-03": {
+      "veiculos_vendidos": 11,
+      "receita_bruta": 1398200,
+      "receita_venda_veiculos": 1394900,
+      "receita_despachante": 3300,
+      "cmv": 1266512.68,
+      "cmv_entrada_mercadorias": 1226590.23,
+      "cmv_custo_lancamentos": 33946.96,
+      "cmv_custo_despachante": 5975.49,
+      "lucro_bruto": 131687.32,
+      "margem_bruta_pct": 9.4,
+      "margem_bruta_por_veiculo": 11971.57,
+      "outras_receitas_total": 9199.2,
+      "despesas": {
+        "pessoal": {
+          "total": 9334.0,
+          "itens": {
+            "Comissões sobre vendas": 2275,
+            "Ajuda de custo": 1896,
+            "Horas extras": 0,
+            "Lavador/polidor": 1921,
+            "Salários administrativo": 3242
+          }
+        },
+        "pro_labore": {
+          "total": 13000.0,
+          "itens": {
+            "Pró-labore sócios": 13000
+          }
+        },
+        "ocupacao": {
+          "total": 7436.43,
+          "itens": {
+            "Aluguéis": 7236.43,
+            "Construção": 0,
+            "Segurança": 200
+          }
+        },
+        "utilidades": {
+          "total": 1205.19,
+          "itens": {
+            "Água": 0,
+            "Energia elétrica": 955.21,
+            "Internet": 249.98
+          }
+        },
+        "marketing": {
+          "total": 2987.72,
+          "itens": {
+            "Publicidade": 2987.72,
+            "Brindes": 0
+          }
+        },
+        "administrativo": {
+          "total": 10375.58,
+          "itens": {
+            "Contador": 1090.6,
+            "Software": 6846.16,
+            "Seguros": 1750.5,
+            "Limpeza/cantina": 144.58,
+            "Associações": 300,
+            "Correios": 29.7,
+            "Outras": 214.04,
+            "Uber/táxi": 0,
+            "Confraternização": 0,
+            "Material escritório": 0,
+            "Lavacar (produtos)": 0
+          }
+        },
+        "impostos": {
+          "total": 5038.99,
+          "itens": {
+            "COFINS": 818.45,
+            "FGTS": 398.4,
+            "ICMS": 1480.2,
+            "INSS": 1639.44,
+            "ISS": 525.17,
+            "PIS": 177.33,
+            "CSLL": 0,
+            "DARF": 0,
+            "FGTS ADM": 0,
+            "IRPJ": 0
+          }
+        },
+        "manutencao": {
+          "total": 6946.12,
+          "itens": {
+            "Equipamentos": 180,
+            "Veículos em garantia": 6766.12
+          }
+        },
+        "veiculos_uso": {
+          "total": 369.29,
+          "itens": {
+            "Combustível/lubrificantes": 369.29
+          }
+        },
+        "financeiras": {
+          "total": 6300.0,
+          "itens": {
+            "Empréstimos": 6300
+          }
+        },
+        "investimentos": {
+          "total": 0,
+          "itens": {
+            "Equipamentos": 0,
+            "Outros": 0
+          }
+        }
+      },
+      "despesas_total": 62993.32,
+      "resultado": 77893.2,
+      "margem_liquida_pct": 5.6,
+      "giro_estoque_dias": 28.4,
+      "ticket_medio": 126809.0,
+      "lancamentos_por_veiculo": 3086.0
+    },
+    "Q1-2026": {
+      "veiculos_vendidos": 32,
+      "receita_bruta": 3411150,
+      "receita_venda_veiculos": 3394600,
+      "receita_despachante": 16550,
+      "cmv": 3161656.65,
+      "cmv_entrada_mercadorias": 2991868.03,
+      "cmv_custo_lancamentos": 145067.49,
+      "cmv_custo_despachante": 24721.13,
+      "lucro_bruto": 249493.35,
+      "margem_bruta_pct": 7.3,
+      "margem_bruta_por_veiculo": 7796.67,
+      "outras_receitas_total": 29444.48,
+      "despesas": {
+        "pessoal": {
+          "total": 31905.0,
+          "itens": {
+            "Comissões sobre vendas": 8800,
+            "Ajuda de custo": 5016,
+            "Horas extras": 200,
+            "Lavador/polidor": 7663,
+            "Salários administrativo": 10226
+          }
+        },
+        "pro_labore": {
+          "total": 39000.0,
+          "itens": {
+            "Pró-labore sócios": 39000
+          }
+        },
+        "ocupacao": {
+          "total": 26976.04,
+          "itens": {
+            "Aluguéis": 21709.37,
+            "Construção": 4666.67,
+            "Segurança": 600
+          }
+        },
+        "utilidades": {
+          "total": 3503.44,
+          "itens": {
+            "Água": 88,
+            "Energia elétrica": 2982.8,
+            "Internet": 432.64
+          }
+        },
+        "marketing": {
+          "total": 15293.67,
+          "itens": {
+            "Publicidade": 12819.17,
+            "Brindes": 2474.5
+          }
+        },
+        "administrativo": {
+          "total": 37224.37,
+          "itens": {
+            "Contador": 3202.45,
+            "Software": 21151.13,
+            "Seguros": 5251.42,
+            "Limpeza/cantina": 1443.62,
+            "Associações": 900,
+            "Uber/táxi": 940.64,
+            "Confraternização": 2547.97,
+            "Lavacar (produtos)": 1487.6,
+            "Material escritório": 55.8,
+            "Correios": 29.7,
+            "Outras": 214.04
+          }
+        },
+        "impostos": {
+          "total": 25066.2,
+          "itens": {
+            "COFINS": 3128.31,
+            "CSLL": 3498.03,
+            "DARF": 31.45,
+            "FGTS": 1171.78,
+            "FGTS ADM": 182,
+            "ICMS": 4377.38,
+            "INSS": 4739.67,
+            "IRPJ": 5199.18,
+            "ISS": 2060.6,
+            "PIS": 677.8
+          }
+        },
+        "manutencao": {
+          "total": 17197.36,
+          "itens": {
+            "Equipamentos": 180,
+            "Veículos em garantia": 17017.36
+          }
+        },
+        "veiculos_uso": {
+          "total": 1489.12,
+          "itens": {
+            "Combustível/lubrificantes": 1489.12
+          }
+        },
+        "financeiras": {
+          "total": 23613.77,
+          "itens": {
+            "Empréstimos": 23613.77
+          }
+        },
+        "investimentos": {
+          "total": 1349.1,
+          "itens": {
+            "Equipamentos": 920.98,
+            "Outros": 428.12
+          }
+        }
+      },
+      "despesas_total": 222618.07,
+      "resultado": 56319.76,
+      "margem_liquida_pct": 1.7,
+      "giro_estoque_dias": 58.4,
+      "ticket_medio": 106081.0,
+      "lancamentos_por_veiculo": 4533.0
+    }
+  },
+  "historico_mensal": [
+    {
+      "periodo": "2026-01",
+      "receita": 754100,
+      "lucro_liquido": -25817.98,
+      "veiculos": 9,
+      "margem_bruta": 49584.02
+    },
+    {
+      "periodo": "2026-02",
+      "receita": 1245600,
+      "lucro_liquido": 4244.54,
+      "veiculos": 12,
+      "margem_bruta": 68222.01
+    },
+    {
+      "periodo": "2026-03",
+      "receita": 1394900,
+      "lucro_liquido": 77893.2,
+      "veiculos": 11,
+      "margem_bruta": 131687.32
+    }
+  ],
+  "vendas_detalhe": [
+    {
+      "codigo": "7529206",
+      "data": "2026-01-08",
+      "veiculo": "YARIS XL PLUS FLEX CON. SED. 1.5 FLEX 16V AUT",
+      "ano": "2019/2020",
+      "placa": "POJ2454",
+      "valor_venda": 83400.0,
+      "valor_compra": 74800.0,
+      "lancamentos": 1833.0,
+      "comissao": 350.0,
+      "valor_anuncio": 84900.0,
+      "lucro": 6767.0,
+      "margem_pct": 8.11,
+      "dias_em_estoque": 57,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7434854",
+      "data": "2026-01-10",
+      "veiculo": "COMPASS LONG TF",
+      "ano": "2023/2023",
+      "placa": "SLP1B21",
+      "valor_venda": 134600.0,
+      "valor_compra": 115900.0,
+      "lancamentos": 900.0,
+      "comissao": -0.0,
+      "valor_anuncio": 134900.0,
+      "lucro": 17800.0,
+      "margem_pct": 13.22,
+      "dias_em_estoque": 87,
+      "cidade": "CRATO"
+    },
+    {
+      "codigo": "7097173",
+      "data": "2026-01-20",
+      "veiculo": "ECLIPSE CROSS HPE - S AWC AUT",
+      "ano": "2018/2019",
+      "placa": "POV5648",
+      "valor_venda": 87400.0,
+      "valor_compra": 80000.0,
+      "lancamentos": 19660.88,
+      "comissao": 350.0,
+      "valor_anuncio": 88900.0,
+      "lucro": -12260.880000000005,
+      "margem_pct": -14.03,
+      "dias_em_estoque": 207,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7633021",
+      "data": "2026-01-21",
+      "veiculo": "GOLF HIGHLINE MA",
+      "ano": "2014/2014",
+      "placa": "OII2C70",
+      "valor_venda": 82000.0,
+      "valor_compra": 62000.0,
+      "lancamentos": 2984.99,
+      "comissao": -0.0,
+      "valor_anuncio": 84900.0,
+      "lucro": 18198.210000000003,
+      "margem_pct": 22.19,
+      "dias_em_estoque": 39,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7678217",
+      "data": "2026-01-21",
+      "veiculo": "KA 1.0 SE 12V FLEX 4P",
+      "ano": "2017/2018",
+      "placa": "PMJ0C42",
+      "valor_venda": 42900.0,
+      "valor_compra": 30990.0,
+      "lancamentos": 2600.0,
+      "comissao": 350.0,
+      "valor_anuncio": 43900.0,
+      "lucro": 9310.0,
+      "margem_pct": 21.7,
+      "dias_em_estoque": 16,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7485306",
+      "data": "2026-01-22",
+      "veiculo": "SPIN 1.8L AT PREMIER",
+      "ano": "2021/2021",
+      "placa": "RID8B36",
+      "valor_venda": 82900.0,
+      "valor_compra": 79995.0,
+      "lancamentos": -0.0,
+      "comissao": 350.0,
+      "valor_anuncio": 82900.0,
+      "lucro": 5165.2,
+      "margem_pct": 6.23,
+      "dias_em_estoque": 84,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7641723",
+      "data": "2026-01-26",
+      "veiculo": "COMPASS LONGITUDE F",
+      "ano": "2018/2018",
+      "placa": "POH8A98",
+      "valor_venda": 75000.0,
+      "valor_compra": 75000.0,
+      "lancamentos": -45.0,
+      "comissao": -0.0,
+      "valor_anuncio": 75000.0,
+      "lucro": 45.0,
+      "margem_pct": 0.06,
+      "dias_em_estoque": 45,
+      "cidade": "EUSÉBIO"
+    },
+    {
+      "codigo": "7464999",
+      "data": "2026-01-30",
+      "veiculo": "AIRCROSS FEEL 1.6 FLEX 16V 5P AUT",
+      "ano": "2017/2017",
+      "placa": "PIW6961",
+      "valor_venda": 54900.0,
+      "valor_compra": 38400.0,
+      "lancamentos": 13592.5,
+      "comissao": 350.0,
+      "valor_anuncio": 54900.0,
+      "lucro": 4173.97,
+      "margem_pct": 7.6,
+      "dias_em_estoque": 98,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7614577",
+      "data": "2026-01-30",
+      "veiculo": "CIVIC EXL CVT",
+      "ano": "2017/2018",
+      "placa": "QSB5F50",
+      "valor_venda": 111000.0,
+      "valor_compra": 96180.0,
+      "lancamentos": 5978.64,
+      "comissao": -0.0,
+      "valor_anuncio": 114900.0,
+      "lucro": 8841.36,
+      "margem_pct": 7.97,
+      "dias_em_estoque": 52,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7780624",
+      "data": "2026-02-05",
+      "veiculo": "C3 120A EXCLUSIV",
+      "ano": "2013/2014",
+      "placa": "ORS7683",
+      "valor_venda": 29000.0,
+      "valor_compra": 21000.0,
+      "lancamentos": -0.0,
+      "comissao": -0.0,
+      "valor_anuncio": 30000.0,
+      "lucro": 8000.0,
+      "margem_pct": 27.59,
+      "dias_em_estoque": 1,
+      "cidade": ""
+    },
+    {
+      "codigo": "6707185",
+      "data": "2026-02-07",
+      "veiculo": "L200 TRITON 3.2 D",
+      "ano": "2012/2013",
+      "placa": "OID1075",
+      "valor_venda": 105900.0,
+      "valor_compra": 90000.0,
+      "lancamentos": 31828.79,
+      "comissao": 350.0,
+      "valor_anuncio": 109900.0,
+      "lucro": -13235.720000000008,
+      "margem_pct": -12.5,
+      "dias_em_estoque": 365,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7650581",
+      "data": "2026-02-10",
+      "veiculo": "C180TURBO",
+      "ano": "2013/2014",
+      "placa": "OIH2910",
+      "valor_venda": 78000.0,
+      "valor_compra": 65000.0,
+      "lancamentos": 5678.0,
+      "comissao": 350.0,
+      "valor_anuncio": 79900.0,
+      "lucro": 7322.0,
+      "margem_pct": 9.39,
+      "dias_em_estoque": 53,
+      "cidade": ""
+    },
+    {
+      "codigo": "7602449",
+      "data": "2026-02-11",
+      "veiculo": "Q3 1.4 TFSI",
+      "ano": "2016/2017",
+      "placa": "PIY3A30",
+      "valor_venda": 97900.0,
+      "valor_compra": 79990.0,
+      "lancamentos": 5084.7,
+      "comissao": -0.0,
+      "valor_anuncio": 97900.0,
+      "lucro": 12825.300000000003,
+      "margem_pct": 13.1,
+      "dias_em_estoque": 68,
+      "cidade": "CRATO"
+    },
+    {
+      "codigo": "7186489",
+      "data": "2026-02-12",
+      "veiculo": "CHEV EQUINOX PREMIER",
+      "ano": "2018/2019",
+      "placa": "QRR1I30",
+      "valor_venda": 119000.0,
+      "valor_compra": 99990.0,
+      "lancamentos": 15270.85,
+      "comissao": 350.0,
+      "valor_anuncio": 119900.0,
+      "lucro": 3739.149999999994,
+      "margem_pct": 3.14,
+      "dias_em_estoque": 199,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7633246",
+      "data": "2026-02-13",
+      "veiculo": "AMG A35SD 4M",
+      "ano": "2021/2021",
+      "placa": "QYT6G18",
+      "valor_venda": 299900.0,
+      "valor_compra": 288379.14,
+      "lancamentos": -2500.0,
+      "comissao": -0.0,
+      "valor_anuncio": 299900.0,
+      "lucro": 14020.859999999986,
+      "margem_pct": 4.68,
+      "dias_em_estoque": 79,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7818874",
+      "data": "2026-02-19",
+      "veiculo": "NISSAN SENTRA 20SV CVT",
+      "ano": "2013/2014",
+      "placa": "ORV6E76",
+      "valor_venda": 35000.0,
+      "valor_compra": 28000.0,
+      "lancamentos": -0.0,
+      "comissao": -0.0,
+      "valor_anuncio": 0.0,
+      "lucro": 7000.0,
+      "margem_pct": 20.0,
+      "dias_em_estoque": 7,
+      "cidade": ""
+    },
+    {
+      "codigo": "7818873",
+      "data": "2026-02-19",
+      "veiculo": "ONIX PLUS 10TAT PR2",
+      "ano": "2020/2020",
+      "placa": "POI3F02",
+      "valor_venda": 70000.0,
+      "valor_compra": 60000.0,
+      "lancamentos": 329.0,
+      "comissao": -0.0,
+      "valor_anuncio": 70000.0,
+      "lucro": 11071.06,
+      "margem_pct": 15.82,
+      "dias_em_estoque": 8,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7759061",
+      "data": "2026-02-20",
+      "veiculo": "TIGUAN ALLSPACE CL",
+      "ano": "2018/2018",
+      "placa": "POJ4B08",
+      "valor_venda": 116900.0,
+      "valor_compra": 111250.0,
+      "lancamentos": -3900.0,
+      "comissao": 350.0,
+      "valor_anuncio": 116900.0,
+      "lucro": 10809.61,
+      "margem_pct": 9.25,
+      "dias_em_estoque": 22,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7782951",
+      "data": "2026-02-23",
+      "veiculo": "COMPASS LONG TD",
+      "ano": "2021/2022",
+      "placa": "RIH3J54",
+      "valor_venda": 136000.0,
+      "valor_compra": 128403.66,
+      "lancamentos": 470.0,
+      "comissao": 350.0,
+      "valor_anuncio": 143900.0,
+      "lucro": 7126.3399999999965,
+      "margem_pct": 5.24,
+      "dias_em_estoque": 18,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7699489",
+      "data": "2026-02-24",
+      "veiculo": "320I ACTIVE FLEX",
+      "ano": "2018/2018",
+      "placa": "PNZ8D92",
+      "valor_venda": 132000.0,
+      "valor_compra": 118000.0,
+      "lancamentos": 11354.18,
+      "comissao": -0.0,
+      "valor_anuncio": 134900.0,
+      "lucro": 4614.650000000007,
+      "margem_pct": 3.5,
+      "dias_em_estoque": 45,
+      "cidade": "CAUCAIA"
+    },
+    {
+      "codigo": "7834316",
+      "data": "2026-02-27",
+      "veiculo": "COROLLA XEI18VVT",
+      "ano": "2003/2003",
+      "placa": "HXS9121",
+      "valor_venda": 26000.0,
+      "valor_compra": 22000.0,
+      "lancamentos": -0.0,
+      "comissao": -0.0,
+      "valor_anuncio": 27000.0,
+      "lucro": 4000.0,
+      "margem_pct": 15.38,
+      "dias_em_estoque": 8,
+      "cidade": ""
+    },
+    {
+      "codigo": "7801510",
+      "data": "2026-03-03",
+      "veiculo": "COMPASS LONGITUDE F",
+      "ano": "2018/2018",
+      "placa": "POV4599",
+      "valor_venda": 88900.0,
+      "valor_compra": 82650.0,
+      "lancamentos": -0.0,
+      "comissao": 350.0,
+      "valor_anuncio": 89900.0,
+      "lucro": 6250.0,
+      "margem_pct": 7.03,
+      "dias_em_estoque": 20,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7826899",
+      "data": "2026-03-05",
+      "veiculo": "TORO VOLCANO AT D4",
+      "ano": "2017/2018",
+      "placa": "PKN0B34",
+      "valor_venda": 75000.0,
+      "valor_compra": 75740.4,
+      "lancamentos": 657.24,
+      "comissao": 350.0,
+      "valor_anuncio": 76900.0,
+      "lucro": -1397.6399999999994,
+      "margem_pct": -1.86,
+      "dias_em_estoque": 13,
+      "cidade": "BREJO SANTO"
+    },
+    {
+      "codigo": "7819660",
+      "data": "2026-03-06",
+      "veiculo": "DISC SPT D200 SE",
+      "ano": "2022/2022",
+      "placa": "RSL4C30",
+      "valor_venda": 237900.0,
+      "valor_compra": 199900.0,
+      "lancamentos": 3840.96,
+      "comissao": 350.0,
+      "valor_anuncio": 237900.0,
+      "lucro": 34159.04000000001,
+      "margem_pct": 14.36,
+      "dias_em_estoque": 21,
+      "cidade": ""
+    },
+    {
+      "codigo": "7858401",
+      "data": "2026-03-09",
+      "veiculo": "CITY EXL CVT",
+      "ano": "2022/2023",
+      "placa": "SBV2G36",
+      "valor_venda": 107000.0,
+      "valor_compra": 93000.0,
+      "lancamentos": 626.0,
+      "comissao": 350.0,
+      "valor_anuncio": 109900.0,
+      "lucro": 13374.0,
+      "margem_pct": 12.5,
+      "dias_em_estoque": 14,
+      "cidade": ""
+    },
+    {
+      "codigo": "7876338",
+      "data": "2026-03-10",
+      "veiculo": "HR-V TOURING",
+      "ano": "2023/2024",
+      "placa": "SAZ8B19",
+      "valor_venda": 164900.0,
+      "valor_compra": 145000.0,
+      "lancamentos": 3994.72,
+      "comissao": -0.0,
+      "valor_anuncio": 165000.0,
+      "lucro": 15905.279999999999,
+      "margem_pct": 9.65,
+      "dias_em_estoque": 1,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7798459",
+      "data": "2026-03-10",
+      "veiculo": "RANGER LTDCD4A32C",
+      "ano": "2020/2021",
+      "placa": "QTG4D66",
+      "valor_venda": 168400.0,
+      "valor_compra": 139900.0,
+      "lancamentos": 7084.0,
+      "comissao": 350.0,
+      "valor_anuncio": 169900.0,
+      "lucro": 24403.37,
+      "margem_pct": 14.49,
+      "dias_em_estoque": 28,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7851072",
+      "data": "2026-03-16",
+      "veiculo": "FASTBACK TURBO 270",
+      "ano": "2022/2023",
+      "placa": "SBB4A46",
+      "valor_venda": 119900.0,
+      "valor_compra": 102000.0,
+      "lancamentos": 1082.5,
+      "comissao": 350.0,
+      "valor_anuncio": 119900.0,
+      "lucro": 16817.5,
+      "margem_pct": 14.03,
+      "dias_em_estoque": 16,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7739041",
+      "data": "2026-03-17",
+      "veiculo": "CRETA 1TA PLATINUM",
+      "ano": "2023/2024",
+      "placa": "SNY7A83",
+      "valor_venda": 135000.0,
+      "valor_compra": 122499.83,
+      "lancamentos": 2784.13,
+      "comissao": 350.0,
+      "valor_anuncio": 137900.0,
+      "lucro": 9716.039999999994,
+      "margem_pct": 7.2,
+      "dias_em_estoque": 53,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7794732",
+      "data": "2026-03-18",
+      "veiculo": "FIT LX MT",
+      "ano": "2014/2015",
+      "placa": "QGA7B18",
+      "valor_venda": 57000.0,
+      "valor_compra": 48000.0,
+      "lancamentos": 4192.9,
+      "comissao": -0.0,
+      "valor_anuncio": 59900.0,
+      "lucro": 4807.0999999999985,
+      "margem_pct": 8.43,
+      "dias_em_estoque": 37,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7663573",
+      "data": "2026-03-20",
+      "veiculo": "A3 LM 150 CV",
+      "ano": "2016/2017",
+      "placa": "POO4A40",
+      "valor_venda": 91000.0,
+      "valor_compra": 80000.0,
+      "lancamentos": 7120.0,
+      "comissao": -0.0,
+      "valor_anuncio": 92900.0,
+      "lucro": 5889.05,
+      "margem_pct": 6.47,
+      "dias_em_estoque": 91,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7871501",
+      "data": "2026-03-24",
+      "veiculo": "CCROSS XRX HYBRID",
+      "ano": "2021/2022",
+      "placa": "RGJ4C20",
+      "valor_venda": 149900.0,
+      "valor_compra": 137900.0,
+      "lancamentos": 2564.51,
+      "comissao": -0.0,
+      "valor_anuncio": 149900.0,
+      "lucro": 9535.48999999999,
+      "margem_pct": 6.36,
+      "dias_em_estoque": 18,
+      "cidade": ""
+    }
+  ],
+  "estoque_parado": [
+    {
+      "codigo": "5912819",
+      "veiculo": "RENAULT DUSTER 20 D 4X4",
+      "ano": "2018/2019",
+      "placa": "QRB6C53",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2024-04-27",
+      "dias_parado": 708,
+      "valor_compra": 60500.0,
+      "lancamentos_ate_agora": 10057.41,
+      "preco_anuncio": 73900.0,
+      "fipe_atual": 70714.0,
+      "margem_esperada": 3342.5899999999965,
+      "alerta": "CRÍTICO (+180d)"
+    },
+    {
+      "codigo": "7086043",
+      "veiculo": "CHEVROLET BOLT PREMIER",
+      "ano": "2021/2022",
+      "placa": "GCO7C43",
+      "tipo": "CONSIG.",
+      "data_compra": "2025-06-24",
+      "dias_parado": 285,
+      "valor_compra": 150000.0,
+      "lancamentos_ate_agora": 2045.1,
+      "preco_anuncio": 149900.0,
+      "fipe_atual": 135220.0,
+      "margem_esperada": -2145.100000000006,
+      "alerta": "CRÍTICO (+180d)"
+    },
+    {
+      "codigo": "7138172",
+      "veiculo": "MINI HATCH JCW 3P",
+      "ano": "2021/2022",
+      "placa": "FOD0E03",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2025-07-11",
+      "dias_parado": 268,
+      "valor_compra": 185000.0,
+      "lancamentos_ate_agora": 4175.92,
+      "preco_anuncio": 204900.0,
+      "fipe_atual": 192480.0,
+      "margem_esperada": 15724.079999999987,
+      "alerta": "CRÍTICO (+180d)"
+    },
+    {
+      "codigo": "7306946",
+      "veiculo": "HYUNDAI CRETA SMART PLUS 1.6 16V FLEX AUT.",
+      "ano": "2020/2021",
+      "placa": "RGP9C37",
+      "tipo": "CONSIG.",
+      "data_compra": "2025-09-02",
+      "dias_parado": 215,
+      "valor_compra": 92500.0,
+      "lancamentos_ate_agora": 1692.0,
+      "preco_anuncio": 92900.0,
+      "fipe_atual": 92744.0,
+      "margem_esperada": -1292.0,
+      "alerta": "CRÍTICO (+180d)"
+    },
+    {
+      "codigo": "7417174",
+      "veiculo": "TOYOTA TOYOTA HILUX SW4 SRV4X4",
+      "ano": "2015/2015",
+      "placa": "PMF2403",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2025-10-01",
+      "dias_parado": 186,
+      "valor_compra": 139900.0,
+      "lancamentos_ate_agora": 8093.83,
+      "preco_anuncio": 155900.0,
+      "fipe_atual": 148190.0,
+      "margem_esperada": 7906.170000000013,
+      "alerta": "CRÍTICO (+180d)"
+    },
+    {
+      "codigo": "7465185",
+      "veiculo": "YAMAHA NMAX 160",
+      "ano": "2021/2022",
+      "placa": "SBA6E00",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2025-10-23",
+      "dias_parado": 164,
+      "valor_compra": 14000.0,
+      "lancamentos_ate_agora": 363.96,
+      "preco_anuncio": 19900.0,
+      "fipe_atual": 0.0,
+      "margem_esperada": 5536.040000000001,
+      "alerta": "ALTO (+90d)"
+    },
+    {
+      "codigo": "7525106",
+      "veiculo": "HYUNDAI IX35 GL",
+      "ano": "2018/2019",
+      "placa": "POI3787",
+      "tipo": "CONSIG.",
+      "data_compra": "2025-11-11",
+      "dias_parado": 145,
+      "valor_compra": 89900.0,
+      "lancamentos_ate_agora": 80.0,
+      "preco_anuncio": 89900.0,
+      "fipe_atual": 87994.0,
+      "margem_esperada": -80.0,
+      "alerta": "ALTO (+90d)"
+    },
+    {
+      "codigo": "7682010",
+      "veiculo": "HONDA CIVIC EXL CVT",
+      "ano": "2018/2018",
+      "placa": "PMS2072",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2025-12-26",
+      "dias_parado": 100,
+      "valor_compra": 99000.0,
+      "lancamentos_ate_agora": 1247.0,
+      "preco_anuncio": 114900.0,
+      "fipe_atual": 108731.0,
+      "margem_esperada": 14653.0,
+      "alerta": "ALTO (+90d)"
+    },
+    {
+      "codigo": "7681046",
+      "veiculo": "JEEP COMMANDER LIMITED T270",
+      "ano": "2023/2023",
+      "placa": "SLO0J76",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-01-06",
+      "dias_parado": 89,
+      "valor_compra": 133990.0,
+      "lancamentos_ate_agora": 1700.0,
+      "preco_anuncio": 162900.0,
+      "fipe_atual": 158063.0,
+      "margem_esperada": 27210.0,
+      "alerta": "MÉDIO (+60d)"
+    },
+    {
+      "codigo": "7765407",
+      "veiculo": "CAOA CHERY TIGGO 7 PRO 16T",
+      "ano": "2022/2023",
+      "placa": "RSK4G82",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-01-30",
+      "dias_parado": 65,
+      "valor_compra": 106990.0,
+      "lancamentos_ate_agora": 3850.0,
+      "preco_anuncio": 132900.0,
+      "fipe_atual": 0.0,
+      "margem_esperada": 22060.0,
+      "alerta": "MÉDIO (+60d)"
+    },
+    {
+      "codigo": "7771623",
+      "veiculo": "FORD ECOSPORT SE 1.6B",
+      "ano": "2017/2017",
+      "placa": "PIR8B64",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-02",
+      "dias_parado": 62,
+      "valor_compra": 45000.0,
+      "lancamentos_ate_agora": 5218.0,
+      "preco_anuncio": 58900.0,
+      "fipe_atual": 56447.0,
+      "margem_esperada": 8682.0,
+      "alerta": "MÉDIO (+60d)"
+    },
+    {
+      "codigo": "7797682",
+      "veiculo": "VOLKSWAGEN FOX 1.0",
+      "ano": "2007/2008",
+      "placa": "HYF9845",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-07",
+      "dias_parado": 57,
+      "valor_compra": 14000.0,
+      "lancamentos_ate_agora": 450.0,
+      "preco_anuncio": 0.0,
+      "fipe_atual": 20792.0,
+      "margem_esperada": -14450.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7793412",
+      "veiculo": "HONDA HR-V EX CVT",
+      "ano": "2019/2019",
+      "placa": "OUE6071",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-09",
+      "dias_parado": 55,
+      "valor_compra": 89990.0,
+      "lancamentos_ate_agora": 6293.0,
+      "preco_anuncio": 103900.0,
+      "fipe_atual": 101003.0,
+      "margem_esperada": 7617.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7842250",
+      "veiculo": "FIAT FREEMONT EMOTION",
+      "ano": "2013/2014",
+      "placa": "OYW5750",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-10",
+      "dias_parado": 54,
+      "valor_compra": 35000.0,
+      "lancamentos_ate_agora": 150.0,
+      "preco_anuncio": 36900.0,
+      "fipe_atual": 54431.0,
+      "margem_esperada": 1750.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7843091",
+      "veiculo": "HYUNDAI HB20S 10TA COMFOR",
+      "ano": "2023/2024",
+      "placa": "SIV2H63",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-24",
+      "dias_parado": 40,
+      "valor_compra": 74000.0,
+      "lancamentos_ate_agora": 1997.68,
+      "preco_anuncio": 87900.0,
+      "fipe_atual": 86073.0,
+      "margem_esperada": 11902.320000000007,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7835592",
+      "veiculo": "VOLKSWAGEN TIGUAN ALLSPACE RL",
+      "ano": "2019/2020",
+      "placa": "POT0A63",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-24",
+      "dias_parado": 40,
+      "valor_compra": 146175.92,
+      "lancamentos_ate_agora": 10540.0,
+      "preco_anuncio": 164900.0,
+      "fipe_atual": 157345.0,
+      "margem_esperada": 8184.079999999987,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7859284",
+      "veiculo": "HONDA CITY HATCHBACK EXL 1.5 FLEX 16V AUT.",
+      "ano": "2022/2022",
+      "placa": "SBN5J40",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-03",
+      "dias_parado": 33,
+      "valor_compra": 85000.0,
+      "lancamentos_ate_agora": 410.0,
+      "preco_anuncio": 102900.0,
+      "fipe_atual": 97846.0,
+      "margem_esperada": 17490.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7867823",
+      "veiculo": "HYUNDAI HB20X VISION 1.6 MT",
+      "ano": "2020/2021",
+      "placa": "RIC8E51",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-03",
+      "dias_parado": 33,
+      "valor_compra": 65000.0,
+      "lancamentos_ate_agora": 1160.0,
+      "preco_anuncio": 74900.0,
+      "fipe_atual": 72567.0,
+      "margem_esperada": 8740.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7873342",
+      "veiculo": "LEXUS ES 350 3.5 V-6 4P",
+      "ano": "2014/2015",
+      "placa": "PNA7H70",
+      "tipo": "CONSIG.",
+      "data_compra": "2026-03-07",
+      "dias_parado": 29,
+      "valor_compra": 120000.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 120000.0,
+      "fipe_atual": 119940.0,
+      "margem_esperada": 0.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7891488",
+      "veiculo": "BMW X5 XDRIVE 30D 3.0 DIESEL",
+      "ano": "2019/2019",
+      "placa": "QRY9J99",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-10",
+      "dias_parado": 26,
+      "valor_compra": 280000.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 306900.0,
+      "fipe_atual": 293586.0,
+      "margem_esperada": 26900.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7926784",
+      "veiculo": "AUDI A3 LM 150CV",
+      "ano": "2017/2018",
+      "placa": "PIV8I30",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-16",
+      "dias_parado": 20,
+      "valor_compra": 68900.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 79900.0,
+      "fipe_atual": 94909.0,
+      "margem_esperada": 11000.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7907669",
+      "veiculo": "CHEVROLET ONIX 1.0 TAT LTZ",
+      "ano": "2021/2021",
+      "placa": "RIA8G83",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-17",
+      "dias_parado": 19,
+      "valor_compra": 56000.0,
+      "lancamentos_ate_agora": 2106.2,
+      "preco_anuncio": 66900.0,
+      "fipe_atual": 67383.0,
+      "margem_esperada": 8793.800000000003,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7937686",
+      "veiculo": "CHEVROLET CRUZE LTZ NB AT",
+      "ano": "2019/2019",
+      "placa": "PNS5G35",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-20",
+      "dias_parado": 16,
+      "valor_compra": 75000.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 79900.0,
+      "fipe_atual": 90819.0,
+      "margem_esperada": 4900.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7927758",
+      "veiculo": "CAOA CHERY TIGGO 8 1.6 TGDI",
+      "ano": "2022/2023",
+      "placa": "SBU0E31",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-24",
+      "dias_parado": 12,
+      "valor_compra": 110000.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 137900.0,
+      "fipe_atual": 0.0,
+      "margem_esperada": 27900.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7939102",
+      "veiculo": "VOLKSWAGEN PASSAT HL TSI AA",
+      "ano": "2018/2018",
+      "placa": "QQI9I56",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-24",
+      "dias_parado": 12,
+      "valor_compra": 110000.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 134900.0,
+      "fipe_atual": 130679.0,
+      "margem_esperada": 24900.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7954758",
+      "veiculo": "AUDI Q3 1.4TFSI",
+      "ano": "2020/2021",
+      "placa": "ROB1A48",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-04-01",
+      "dias_parado": 4,
+      "valor_compra": 132480.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 162900.0,
+      "fipe_atual": 161970.0,
+      "margem_esperada": 30420.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7955941",
+      "veiculo": "BMW 320I M SPORT FLEX",
+      "ano": "2024/2025",
+      "placa": "THR4J44",
+      "tipo": "CONSIG.",
+      "data_compra": "2026-04-01",
+      "dias_parado": 4,
+      "valor_compra": 326900.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 326900.0,
+      "fipe_atual": 328759.0,
+      "margem_esperada": 0.0,
+      "alerta": "OK"
+    },
+    {
+      "codigo": "7954741",
+      "veiculo": "JEEP COMPASS LIMITED D",
+      "ano": "2021/2021",
+      "placa": "RIF4B17",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-04-01",
+      "dias_parado": 4,
+      "valor_compra": 99380.0,
+      "lancamentos_ate_agora": -0.0,
+      "preco_anuncio": 122900.0,
+      "fipe_atual": 121006.0,
+      "margem_esperada": 23520.0,
+      "alerta": "OK"
+    }
+  ],
+  "top_fornecedores": [
+    {
+      "nome": "JOSE EDSON PEREIRA DOS SANTOS",
+      "qtd": 1,
+      "valor_total": 280000.0,
+      "carros": [
+        "BMW X5 XDRIVE 30D 3.0 DIESEL"
+      ]
+    },
+    {
+      "nome": "MF REPASSE",
+      "qtd": 3,
+      "valor_total": 274890.0,
+      "carros": [
+        "FORD ECOSPORT SE 1.6B",
+        "HONDA HR-V EX CVT",
+        "FORD RANGER LTDCD4A32C"
+      ]
+    },
+    {
+      "nome": "FRANCISCO FELIPPE MATOS SOUSA",
+      "qtd": 1,
+      "valor_total": 199900.0,
+      "carros": [
+        "LAND ROVER DISC SPT D200 SE"
+      ]
+    },
+    {
+      "nome": "NEWSEDAN",
+      "qtd": 1,
+      "valor_total": 146175.92,
+      "carros": [
+        "VOLKSWAGEN TIGUAN ALLSPACE RL"
+      ]
+    },
+    {
+      "nome": "VAAPTY",
+      "qtd": 1,
+      "valor_total": 145000.0,
+      "carros": [
+        "HONDA HR-V TOURING"
+      ]
+    },
+    {
+      "nome": "LAWRENCE MARTINS RABELO",
+      "qtd": 1,
+      "valor_total": 137900.0,
+      "carros": [
+        "TOYOTA CCROSS XRX HYBRID"
+      ]
+    },
+    {
+      "nome": "ANDRE LUIZ FENELON FRANCA RIBEIRO",
+      "qtd": 1,
+      "valor_total": 128403.66,
+      "carros": [
+        "JEEP COMPASS LONG TD"
+      ]
+    },
+    {
+      "nome": "FERNANDO SOARES GURGEL",
+      "qtd": 1,
+      "valor_total": 120000.0,
+      "carros": [
+        "LEXUS ES 350 3.5 V-6 4P"
+      ]
+    },
+    {
+      "nome": "PEDRO PAULO MELO JORGE DE MEDEIROS",
+      "qtd": 1,
+      "valor_total": 110000.0,
+      "carros": [
+        "CAOA CHERY TIGGO 8 1.6 TGDI"
+      ]
+    },
+    {
+      "nome": "LUCIANO MAGALHAES MACEDO",
+      "qtd": 1,
+      "valor_total": 110000.0,
+      "carros": [
+        "VOLKSWAGEN PASSAT HL TSI AA"
+      ]
+    },
+    {
+      "nome": "RUANY DA COSTA ANDRADE",
+      "qtd": 1,
+      "valor_total": 102000.0,
+      "carros": [
+        "FIAT FASTBACK TURBO 270"
+      ]
+    },
+    {
+      "nome": "EDINARDO PEIXOTO DE FREITAS",
+      "qtd": 1,
+      "valor_total": 93000.0,
+      "carros": [
+        "HONDA CITY EXL CVT"
+      ]
+    },
+    {
+      "nome": "ANA WLADIA ALEXANDRE DE SOUSA",
+      "qtd": 1,
+      "valor_total": 85000.0,
+      "carros": [
+        "HONDA CITY HATCHBACK EXL 1.5 FLEX 16V AUT."
+      ]
+    },
+    {
+      "nome": "LUCAS RODRIGUES DANTAS",
+      "qtd": 1,
+      "valor_total": 82650.0,
+      "carros": [
+        "JEEP COMPASS LONGITUDE F"
+      ]
+    },
+    {
+      "nome": "TEREZA CARITAS MAIA FONTENELE CHAVES",
+      "qtd": 1,
+      "valor_total": 75740.4,
+      "carros": [
+        "FIAT TORO VOLCANO AT D4"
+      ]
+    }
+  ],
+  "insights_por_periodo": {
+    "2026-01": [
+      "Prejuízo de R$ 25.818 no mês apesar de vender 9 carros. Margem bruta de apenas 6,5%.",
+      "Lançamentos por veículo: R$ 5.278 — média alta, indicando carros entrando com muita preparação necessária.",
+      "Tempo médio de estoque: 76 dias. Carros como Eclipse Cross (207d) e Compass (87d) puxaram pra cima.",
+      "Impostos pesaram R$ 15.085 com CSLL+IRPJ do trimestre anterior caindo em janeiro (R$ 8.697 só esses dois).",
+      "Destaque positivo: VW Golf Highline vendeu com 22,2% de margem (R$ 18.198 de lucro) em 39 dias — mostra que tem mix que funciona."
+    ],
+    "2026-02": [
+      "Saiu do vermelho por pouco: +R$ 4.244. Maior volume do trimestre (12 carros), mas margem ainda apertada (5,4%).",
+      "L200 Triton parada 365 dias vendeu com prejuízo de R$ 13.236 + lançamentos de R$ 31.829. Case clássico de carro zumbi.",
+      "Equinox Premier (199d, 7% acima do FIPE) virou com lucro quase zero (R$ 3.739 em 199 dias). Melhor ter vendido antes.",
+      "Marketing saltou pra R$ 8.186 (brindes R$ 2.474 + publicidade R$ 5.711) — maior do tri. Vale medir o retorno.",
+      "Impostos caíram 67% vs Jan — sem CSLL/IRPJ apurados neste mês."
+    ],
+    "2026-03": [
+      "Mês redondo: lucro de R$ 77.893 (138% do resultado do tri inteiro). Margem bruta explodiu pra 9,4%.",
+      "CHAVE DA VIRADA → Giro de estoque caiu pra 28 dias (vs 76 em Jan e 73 em Fev). Carros rodando 2,6x mais rápido.",
+      "Lançamentos por veículo despencaram pra R$ 3.086 (−42% vs média Jan/Fev de R$ 5.290). Menos carro problema entrando.",
+      "Top vendas do mês: Discovery Sport D200 (14,4%, R$ 34.159 lucro, 21d) e Ranger Ltd (14,5%, R$ 24.403, 28d).",
+      "Manutenção em garantia subiu pra R$ 6.766 — contraste com o resto. Curadoria melhorou na entrada mas pós-venda ainda cobra.",
+      "Despesas operacionais caíram pra R$ 62.993 (-23% vs Jan). Sem brindes, sem obra, sem investimento."
+    ],
+    "Q1-2026": [
+      "Lucro líquido do trimestre: R$ 56.319. MAS sem Março (R$ 77.893), Q1 seria −R$ 21.573. Dependência crítica de 1 mês.",
+      "32 carros vendidos, ticket médio R$ 106.081, giro médio 58 dias. Em Março o giro caiu pra 28 — se sustentar abril, o modelo muda de patamar.",
+      "2 vendas destruíram R$ 25.497 de margem: L200 Triton (−R$13.236 em 365 dias) e Eclipse Cross (−R$12.261 em 207 dias). Padrão: carro que passa de 180 dias vira zumbi.",
+      "Pró-labore R$ 39.000 no tri é a maior linha (17,5% despesas). Software R$ 21.151 (9,5%). Manutenção garantia R$ 17.017 (R$ 531/carro vendido).",
+      "Despesas financeiras R$ 23.613 em juros de empréstimo no tri — peso relevante, entender origem (financiamento de estoque?)."
+    ]
+  },
+  "insights_estoque": [
+    "Capital parado em estoque: R$ 3.004.606 em 28 carros.",
+    "8 carros com +90 dias (R$ 830.800 travados) — 27.7% do capital em estoque.",
+    "Top 3 carros zumbi: Duster 4x4 (708 dias!!), Bolt Premier (285d) e Mini JCW (268d) — juntos R$ 395.500 parados.",
+    "Alerta de preço: Hyundai Creta (215d) e IX35 (145d) estão anunciados exatamente no valor de compra ou abaixo — prejuízo certo se vender.",
+    "11 carros (39% do estoque) estão acima de 60 dias. Meta: derrubar pra <30% até fim de maio."
+  ],
+  "acao_sugerida": "Prioridade 1: liquidar os 3 carros zumbi do estoque atual (Duster 708d, Bolt 285d, Mini 268d) mesmo com margem reduzida — libera R$ 395.500. Prioridade 2: manter o giro de 28 dias alcançado em Março como padrão de abril. Prioridade 3: investigar por que a linha de manutenção em garantia subiu em Março (R$ 6.766) apesar da curadoria melhor na entrada."
+}

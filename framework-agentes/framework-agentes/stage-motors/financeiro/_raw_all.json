@@ -1,0 +1,2828 @@
+{
+  "vendidos": [
+    {
+      "codigo": "7529206",
+      "data_venda": "2026-01-08",
+      "modelo": "YARIS XL PLUS FLEX CON. SED. 1.5 FLEX 16V AUT",
+      "ano": "2019/2020",
+      "placa": "POJ2454",
+      "data_compra": "2025-11-12",
+      "dias_estoque": 57,
+      "compra": 74800.0,
+      "lancamentos": 1833.0,
+      "comissao": 350.0,
+      "custo_total": 76633.0,
+      "valor_anuncio": 84900.0,
+      "venda": 83400.0,
+      "lucro": 6767.0,
+      "margem_pct": 8.11,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7434854",
+      "data_venda": "2026-01-10",
+      "modelo": "COMPASS LONG TF",
+      "ano": "2023/2023",
+      "placa": "SLP1B21",
+      "data_compra": "2025-10-15",
+      "dias_estoque": 87,
+      "compra": 115900.0,
+      "lancamentos": 900.0,
+      "comissao": -0.0,
+      "custo_total": 116800.0,
+      "valor_anuncio": 134900.0,
+      "venda": 134600.0,
+      "lucro": 17800.0,
+      "margem_pct": 13.22,
+      "cidade": "CRATO"
+    },
+    {
+      "codigo": "7097173",
+      "data_venda": "2026-01-20",
+      "modelo": "ECLIPSE CROSS HPE - S AWC AUT",
+      "ano": "2018/2019",
+      "placa": "POV5648",
+      "data_compra": "2025-06-27",
+      "dias_estoque": 207,
+      "compra": 80000.0,
+      "lancamentos": 19660.88,
+      "comissao": 350.0,
+      "custo_total": 99660.88,
+      "valor_anuncio": 88900.0,
+      "venda": 87400.0,
+      "lucro": -12260.880000000005,
+      "margem_pct": -14.03,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7633021",
+      "data_venda": "2026-01-21",
+      "modelo": "GOLF HIGHLINE MA",
+      "ano": "2014/2014",
+      "placa": "OII2C70",
+      "data_compra": "2025-12-13",
+      "dias_estoque": 39,
+      "compra": 62000.0,
+      "lancamentos": 2984.99,
+      "comissao": -0.0,
+      "custo_total": 64984.99,
+      "valor_anuncio": 84900.0,
+      "venda": 82000.0,
+      "lucro": 18198.210000000003,
+      "margem_pct": 22.19,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7678217",
+      "data_venda": "2026-01-21",
+      "modelo": "KA 1.0 SE 12V FLEX 4P",
+      "ano": "2017/2018",
+      "placa": "PMJ0C42",
+      "data_compra": "2026-01-05",
+      "dias_estoque": 16,
+      "compra": 30990.0,
+      "lancamentos": 2600.0,
+      "comissao": 350.0,
+      "custo_total": 33590.0,
+      "valor_anuncio": 43900.0,
+      "venda": 42900.0,
+      "lucro": 9310.0,
+      "margem_pct": 21.7,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7485306",
+      "data_venda": "2026-01-22",
+      "modelo": "SPIN 1.8L AT PREMIER",
+      "ano": "2021/2021",
+      "placa": "RID8B36",
+      "data_compra": "2025-10-30",
+      "dias_estoque": 84,
+      "compra": 79995.0,
+      "lancamentos": -0.0,
+      "comissao": 350.0,
+      "custo_total": 79995.0,
+      "valor_anuncio": 82900.0,
+      "venda": 82900.0,
+      "lucro": 5165.2,
+      "margem_pct": 6.23,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7641723",
+      "data_venda": "2026-01-26",
+      "modelo": "COMPASS LONGITUDE F",
+      "ano": "2018/2018",
+      "placa": "POH8A98",
+      "data_compra": "2025-12-12",
+      "dias_estoque": 45,
+      "compra": 75000.0,
+      "lancamentos": -45.0,
+      "comissao": -0.0,
+      "custo_total": 74955.0,
+      "valor_anuncio": 75000.0,
+      "venda": 75000.0,
+      "lucro": 45.0,
+      "margem_pct": 0.06,
+      "cidade": "EUSÉBIO"
+    },
+    {
+      "codigo": "7464999",
+      "data_venda": "2026-01-30",
+      "modelo": "AIRCROSS FEEL 1.6 FLEX 16V 5P AUT",
+      "ano": "2017/2017",
+      "placa": "PIW6961",
+      "data_compra": "2025-10-24",
+      "dias_estoque": 98,
+      "compra": 38400.0,
+      "lancamentos": 13592.5,
+      "comissao": 350.0,
+      "custo_total": 51992.5,
+      "valor_anuncio": 54900.0,
+      "venda": 54900.0,
+      "lucro": 4173.97,
+      "margem_pct": 7.6,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7614577",
+      "data_venda": "2026-01-30",
+      "modelo": "CIVIC EXL CVT",
+      "ano": "2017/2018",
+      "placa": "QSB5F50",
+      "data_compra": "2025-12-09",
+      "dias_estoque": 52,
+      "compra": 96180.0,
+      "lancamentos": 5978.64,
+      "comissao": -0.0,
+      "custo_total": 102158.64,
+      "valor_anuncio": 114900.0,
+      "venda": 111000.0,
+      "lucro": 8841.36,
+      "margem_pct": 7.97,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7780624",
+      "data_venda": "2026-02-05",
+      "modelo": "C3 120A EXCLUSIV",
+      "ano": "2013/2014",
+      "placa": "ORS7683",
+      "data_compra": "2026-02-04",
+      "dias_estoque": 1,
+      "compra": 21000.0,
+      "lancamentos": -0.0,
+      "comissao": -0.0,
+      "custo_total": 21000.0,
+      "valor_anuncio": 30000.0,
+      "venda": 29000.0,
+      "lucro": 8000.0,
+      "margem_pct": 27.59,
+      "cidade": ""
+    },
+    {
+      "codigo": "6707185",
+      "data_venda": "2026-02-07",
+      "modelo": "L200 TRITON 3.2 D",
+      "ano": "2012/2013",
+      "placa": "OID1075",
+      "data_compra": "2025-02-07",
+      "dias_estoque": 365,
+      "compra": 90000.0,
+      "lancamentos": 31828.79,
+      "comissao": 350.0,
+      "custo_total": 121828.79000000001,
+      "valor_anuncio": 109900.0,
+      "venda": 105900.0,
+      "lucro": -13235.720000000008,
+      "margem_pct": -12.5,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7650581",
+      "data_venda": "2026-02-10",
+      "modelo": "C180TURBO",
+      "ano": "2013/2014",
+      "placa": "OIH2910",
+      "data_compra": "2025-12-19",
+      "dias_estoque": 53,
+      "compra": 65000.0,
+      "lancamentos": 5678.0,
+      "comissao": 350.0,
+      "custo_total": 70678.0,
+      "valor_anuncio": 79900.0,
+      "venda": 78000.0,
+      "lucro": 7322.0,
+      "margem_pct": 9.39,
+      "cidade": ""
+    },
+    {
+      "codigo": "7602449",
+      "data_venda": "2026-02-11",
+      "modelo": "Q3 1.4 TFSI",
+      "ano": "2016/2017",
+      "placa": "PIY3A30",
+      "data_compra": "2025-12-05",
+      "dias_estoque": 68,
+      "compra": 79990.0,
+      "lancamentos": 5084.7,
+      "comissao": -0.0,
+      "custo_total": 85074.7,
+      "valor_anuncio": 97900.0,
+      "venda": 97900.0,
+      "lucro": 12825.300000000003,
+      "margem_pct": 13.1,
+      "cidade": "CRATO"
+    },
+    {
+      "codigo": "7186489",
+      "data_venda": "2026-02-12",
+      "modelo": "CHEV EQUINOX PREMIER",
+      "ano": "2018/2019",
+      "placa": "QRR1I30",
+      "data_compra": "2025-07-28",
+      "dias_estoque": 199,
+      "compra": 99990.0,
+      "lancamentos": 15270.85,
+      "comissao": 350.0,
+      "custo_total": 115260.85,
+      "valor_anuncio": 119900.0,
+      "venda": 119000.0,
+      "lucro": 3739.149999999994,
+      "margem_pct": 3.14,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7633246",
+      "data_venda": "2026-02-13",
+      "modelo": "AMG A35SD 4M",
+      "ano": "2021/2021",
+      "placa": "QYT6G18",
+      "data_compra": "2025-11-26",
+      "dias_estoque": 79,
+      "compra": 288379.14,
+      "lancamentos": -2500.0,
+      "comissao": -0.0,
+      "custo_total": 285879.14,
+      "valor_anuncio": 299900.0,
+      "venda": 299900.0,
+      "lucro": 14020.859999999986,
+      "margem_pct": 4.68,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7818874",
+      "data_venda": "2026-02-19",
+      "modelo": "NISSAN SENTRA 20SV CVT",
+      "ano": "2013/2014",
+      "placa": "ORV6E76",
+      "data_compra": "2026-02-12",
+      "dias_estoque": 7,
+      "compra": 28000.0,
+      "lancamentos": -0.0,
+      "comissao": -0.0,
+      "custo_total": 28000.0,
+      "valor_anuncio": 0.0,
+      "venda": 35000.0,
+      "lucro": 7000.0,
+      "margem_pct": 20.0,
+      "cidade": ""
+    },
+    {
+      "codigo": "7818873",
+      "data_venda": "2026-02-19",
+      "modelo": "ONIX PLUS 10TAT PR2",
+      "ano": "2020/2020",
+      "placa": "POI3F02",
+      "data_compra": "2026-02-11",
+      "dias_estoque": 8,
+      "compra": 60000.0,
+      "lancamentos": 329.0,
+      "comissao": -0.0,
+      "custo_total": 60329.0,
+      "valor_anuncio": 70000.0,
+      "venda": 70000.0,
+      "lucro": 11071.06,
+      "margem_pct": 15.82,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7759061",
+      "data_venda": "2026-02-20",
+      "modelo": "TIGUAN ALLSPACE CL",
+      "ano": "2018/2018",
+      "placa": "POJ4B08",
+      "data_compra": "2026-01-29",
+      "dias_estoque": 22,
+      "compra": 111250.0,
+      "lancamentos": -3900.0,
+      "comissao": 350.0,
+      "custo_total": 107350.0,
+      "valor_anuncio": 116900.0,
+      "venda": 116900.0,
+      "lucro": 10809.61,
+      "margem_pct": 9.25,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7782951",
+      "data_venda": "2026-02-23",
+      "modelo": "COMPASS LONG TD",
+      "ano": "2021/2022",
+      "placa": "RIH3J54",
+      "data_compra": "2026-02-05",
+      "dias_estoque": 18,
+      "compra": 128403.66,
+      "lancamentos": 470.0,
+      "comissao": 350.0,
+      "custo_total": 128873.66,
+      "valor_anuncio": 143900.0,
+      "venda": 136000.0,
+      "lucro": 7126.3399999999965,
+      "margem_pct": 5.24,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7699489",
+      "data_venda": "2026-02-24",
+      "modelo": "320I ACTIVE FLEX",
+      "ano": "2018/2018",
+      "placa": "PNZ8D92",
+      "data_compra": "2026-01-10",
+      "dias_estoque": 45,
+      "compra": 118000.0,
+      "lancamentos": 11354.18,
+      "comissao": -0.0,
+      "custo_total": 129354.18,
+      "valor_anuncio": 134900.0,
+      "venda": 132000.0,
+      "lucro": 4614.650000000007,
+      "margem_pct": 3.5,
+      "cidade": "CAUCAIA"
+    },
+    {
+      "codigo": "7834316",
+      "data_venda": "2026-02-27",
+      "modelo": "COROLLA XEI18VVT",
+      "ano": "2003/2003",
+      "placa": "HXS9121",
+      "data_compra": "2026-02-19",
+      "dias_estoque": 8,
+      "compra": 22000.0,
+      "lancamentos": -0.0,
+      "comissao": -0.0,
+      "custo_total": 22000.0,
+      "valor_anuncio": 27000.0,
+      "venda": 26000.0,
+      "lucro": 4000.0,
+      "margem_pct": 15.38,
+      "cidade": ""
+    },
+    {
+      "codigo": "7801510",
+      "data_venda": "2026-03-03",
+      "modelo": "COMPASS LONGITUDE F",
+      "ano": "2018/2018",
+      "placa": "POV4599",
+      "data_compra": "2026-02-11",
+      "dias_estoque": 20,
+      "compra": 82650.0,
+      "lancamentos": -0.0,
+      "comissao": 350.0,
+      "custo_total": 82650.0,
+      "valor_anuncio": 89900.0,
+      "venda": 88900.0,
+      "lucro": 6250.0,
+      "margem_pct": 7.03,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7826899",
+      "data_venda": "2026-03-05",
+      "modelo": "TORO VOLCANO AT D4",
+      "ano": "2017/2018",
+      "placa": "PKN0B34",
+      "data_compra": "2026-02-20",
+      "dias_estoque": 13,
+      "compra": 75740.4,
+      "lancamentos": 657.24,
+      "comissao": 350.0,
+      "custo_total": 76397.64,
+      "valor_anuncio": 76900.0,
+      "venda": 75000.0,
+      "lucro": -1397.6399999999994,
+      "margem_pct": -1.86,
+      "cidade": "BREJO SANTO"
+    },
+    {
+      "codigo": "7819660",
+      "data_venda": "2026-03-06",
+      "modelo": "DISC SPT D200 SE",
+      "ano": "2022/2022",
+      "placa": "RSL4C30",
+      "data_compra": "2026-02-13",
+      "dias_estoque": 21,
+      "compra": 199900.0,
+      "lancamentos": 3840.96,
+      "comissao": 350.0,
+      "custo_total": 203740.96,
+      "valor_anuncio": 237900.0,
+      "venda": 237900.0,
+      "lucro": 34159.04000000001,
+      "margem_pct": 14.36,
+      "cidade": ""
+    },
+    {
+      "codigo": "7858401",
+      "data_venda": "2026-03-09",
+      "modelo": "CITY EXL CVT",
+      "ano": "2022/2023",
+      "placa": "SBV2G36",
+      "data_compra": "2026-02-23",
+      "dias_estoque": 14,
+      "compra": 93000.0,
+      "lancamentos": 626.0,
+      "comissao": 350.0,
+      "custo_total": 93626.0,
+      "valor_anuncio": 109900.0,
+      "venda": 107000.0,
+      "lucro": 13374.0,
+      "margem_pct": 12.5,
+      "cidade": ""
+    },
+    {
+      "codigo": "7876338",
+      "data_venda": "2026-03-10",
+      "modelo": "HR-V TOURING",
+      "ano": "2023/2024",
+      "placa": "SAZ8B19",
+      "data_compra": "2026-03-09",
+      "dias_estoque": 1,
+      "compra": 145000.0,
+      "lancamentos": 3994.72,
+      "comissao": -0.0,
+      "custo_total": 148994.72,
+      "valor_anuncio": 165000.0,
+      "venda": 164900.0,
+      "lucro": 15905.279999999999,
+      "margem_pct": 9.65,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7798459",
+      "data_venda": "2026-03-10",
+      "modelo": "RANGER LTDCD4A32C",
+      "ano": "2020/2021",
+      "placa": "QTG4D66",
+      "data_compra": "2026-02-10",
+      "dias_estoque": 28,
+      "compra": 139900.0,
+      "lancamentos": 7084.0,
+      "comissao": 350.0,
+      "custo_total": 146984.0,
+      "valor_anuncio": 169900.0,
+      "venda": 168400.0,
+      "lucro": 24403.37,
+      "margem_pct": 14.49,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7851072",
+      "data_venda": "2026-03-16",
+      "modelo": "FASTBACK TURBO 270",
+      "ano": "2022/2023",
+      "placa": "SBB4A46",
+      "data_compra": "2026-02-28",
+      "dias_estoque": 16,
+      "compra": 102000.0,
+      "lancamentos": 1082.5,
+      "comissao": 350.0,
+      "custo_total": 103082.5,
+      "valor_anuncio": 119900.0,
+      "venda": 119900.0,
+      "lucro": 16817.5,
+      "margem_pct": 14.03,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7739041",
+      "data_venda": "2026-03-17",
+      "modelo": "CRETA 1TA PLATINUM",
+      "ano": "2023/2024",
+      "placa": "SNY7A83",
+      "data_compra": "2026-01-23",
+      "dias_estoque": 53,
+      "compra": 122499.83,
+      "lancamentos": 2784.13,
+      "comissao": 350.0,
+      "custo_total": 125283.96,
+      "valor_anuncio": 137900.0,
+      "venda": 135000.0,
+      "lucro": 9716.039999999994,
+      "margem_pct": 7.2,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7794732",
+      "data_venda": "2026-03-18",
+      "modelo": "FIT LX MT",
+      "ano": "2014/2015",
+      "placa": "QGA7B18",
+      "data_compra": "2026-02-09",
+      "dias_estoque": 37,
+      "compra": 48000.0,
+      "lancamentos": 4192.9,
+      "comissao": -0.0,
+      "custo_total": 52192.9,
+      "valor_anuncio": 59900.0,
+      "venda": 57000.0,
+      "lucro": 4807.0999999999985,
+      "margem_pct": 8.43,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7663573",
+      "data_venda": "2026-03-20",
+      "modelo": "A3 LM 150 CV",
+      "ano": "2016/2017",
+      "placa": "POO4A40",
+      "data_compra": "2025-12-19",
+      "dias_estoque": 91,
+      "compra": 80000.0,
+      "lancamentos": 7120.0,
+      "comissao": -0.0,
+      "custo_total": 87120.0,
+      "valor_anuncio": 92900.0,
+      "venda": 91000.0,
+      "lucro": 5889.05,
+      "margem_pct": 6.47,
+      "cidade": "FORTALEZA"
+    },
+    {
+      "codigo": "7871501",
+      "data_venda": "2026-03-24",
+      "modelo": "CCROSS XRX HYBRID",
+      "ano": "2021/2022",
+      "placa": "RGJ4C20",
+      "data_compra": "2026-03-06",
+      "dias_estoque": 18,
+      "compra": 137900.0,
+      "lancamentos": 2564.51,
+      "comissao": -0.0,
+      "custo_total": 140464.51,
+      "valor_anuncio": 149900.0,
+      "venda": 149900.0,
+      "lucro": 9535.48999999999,
+      "margem_pct": 6.36,
+      "cidade": ""
+    }
+  ],
+  "estoque_atual": [
+    {
+      "codigo": "7926784",
+      "marca": "AUDI",
+      "modelo": "A3 LM 150CV",
+      "ano": "2017/2018",
+      "placa": "PIV8I30",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-16",
+      "dias_estoque": 20,
+      "compra": 68900.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 79900.0,
+      "fipe_atual": 94909.0,
+      "margem_esperada": 11000.0
+    },
+    {
+      "codigo": "7954758",
+      "marca": "AUDI",
+      "modelo": "Q3 1.4TFSI",
+      "ano": "2020/2021",
+      "placa": "ROB1A48",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-04-01",
+      "dias_estoque": 4,
+      "compra": 132480.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 162900.0,
+      "fipe_atual": 161970.0,
+      "margem_esperada": 30420.0
+    },
+    {
+      "codigo": "7955941",
+      "marca": "BMW",
+      "modelo": "320I M SPORT FLEX",
+      "ano": "2024/2025",
+      "placa": "THR4J44",
+      "tipo": "CONSIG.",
+      "data_compra": "2026-04-01",
+      "dias_estoque": 4,
+      "compra": 326900.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 326900.0,
+      "fipe_atual": 328759.0,
+      "margem_esperada": 0.0
+    },
+    {
+      "codigo": "7891488",
+      "marca": "BMW",
+      "modelo": "X5 XDRIVE 30D 3.0 DIESEL",
+      "ano": "2019/2019",
+      "placa": "QRY9J99",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-10",
+      "dias_estoque": 26,
+      "compra": 280000.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 306900.0,
+      "fipe_atual": 293586.0,
+      "margem_esperada": 26900.0
+    },
+    {
+      "codigo": "7765407",
+      "marca": "CAOA CHERY",
+      "modelo": "TIGGO 7 PRO 16T",
+      "ano": "2022/2023",
+      "placa": "RSK4G82",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-01-30",
+      "dias_estoque": 65,
+      "compra": 106990.0,
+      "lancamentos_ate_agora": 3850.0,
+      "valor_anuncio": 132900.0,
+      "fipe_atual": 0.0,
+      "margem_esperada": 22060.0
+    },
+    {
+      "codigo": "7927758",
+      "marca": "CAOA CHERY",
+      "modelo": "TIGGO 8 1.6 TGDI",
+      "ano": "2022/2023",
+      "placa": "SBU0E31",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-24",
+      "dias_estoque": 12,
+      "compra": 110000.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 137900.0,
+      "fipe_atual": 0.0,
+      "margem_esperada": 27900.0
+    },
+    {
+      "codigo": "7086043",
+      "marca": "CHEVROLET",
+      "modelo": "BOLT PREMIER",
+      "ano": "2021/2022",
+      "placa": "GCO7C43",
+      "tipo": "CONSIG.",
+      "data_compra": "2025-06-24",
+      "dias_estoque": 285,
+      "compra": 150000.0,
+      "lancamentos_ate_agora": 2045.1,
+      "valor_anuncio": 149900.0,
+      "fipe_atual": 135220.0,
+      "margem_esperada": -2145.100000000006
+    },
+    {
+      "codigo": "7937686",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE LTZ NB AT",
+      "ano": "2019/2019",
+      "placa": "PNS5G35",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-20",
+      "dias_estoque": 16,
+      "compra": 75000.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 79900.0,
+      "fipe_atual": 90819.0,
+      "margem_esperada": 4900.0
+    },
+    {
+      "codigo": "7907669",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX 1.0 TAT LTZ",
+      "ano": "2021/2021",
+      "placa": "RIA8G83",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-17",
+      "dias_estoque": 19,
+      "compra": 56000.0,
+      "lancamentos_ate_agora": 2106.2,
+      "valor_anuncio": 66900.0,
+      "fipe_atual": 67383.0,
+      "margem_esperada": 8793.800000000003
+    },
+    {
+      "codigo": "7842250",
+      "marca": "FIAT",
+      "modelo": "FREEMONT EMOTION",
+      "ano": "2013/2014",
+      "placa": "OYW5750",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-10",
+      "dias_estoque": 54,
+      "compra": 35000.0,
+      "lancamentos_ate_agora": 150.0,
+      "valor_anuncio": 36900.0,
+      "fipe_atual": 54431.0,
+      "margem_esperada": 1750.0
+    },
+    {
+      "codigo": "7771623",
+      "marca": "FORD",
+      "modelo": "ECOSPORT SE 1.6B",
+      "ano": "2017/2017",
+      "placa": "PIR8B64",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-02",
+      "dias_estoque": 62,
+      "compra": 45000.0,
+      "lancamentos_ate_agora": 5218.0,
+      "valor_anuncio": 58900.0,
+      "fipe_atual": 56447.0,
+      "margem_esperada": 8682.0
+    },
+    {
+      "codigo": "7859284",
+      "marca": "HONDA",
+      "modelo": "CITY HATCHBACK EXL 1.5 FLEX 16V AUT.",
+      "ano": "2022/2022",
+      "placa": "SBN5J40",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-03",
+      "dias_estoque": 33,
+      "compra": 85000.0,
+      "lancamentos_ate_agora": 410.0,
+      "valor_anuncio": 102900.0,
+      "fipe_atual": 97846.0,
+      "margem_esperada": 17490.0
+    },
+    {
+      "codigo": "7682010",
+      "marca": "HONDA",
+      "modelo": "CIVIC EXL CVT",
+      "ano": "2018/2018",
+      "placa": "PMS2072",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2025-12-26",
+      "dias_estoque": 100,
+      "compra": 99000.0,
+      "lancamentos_ate_agora": 1247.0,
+      "valor_anuncio": 114900.0,
+      "fipe_atual": 108731.0,
+      "margem_esperada": 14653.0
+    },
+    {
+      "codigo": "7793412",
+      "marca": "HONDA",
+      "modelo": "HR-V EX CVT",
+      "ano": "2019/2019",
+      "placa": "OUE6071",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-09",
+      "dias_estoque": 55,
+      "compra": 89990.0,
+      "lancamentos_ate_agora": 6293.0,
+      "valor_anuncio": 103900.0,
+      "fipe_atual": 101003.0,
+      "margem_esperada": 7617.0
+    },
+    {
+      "codigo": "7306946",
+      "marca": "HYUNDAI",
+      "modelo": "CRETA SMART PLUS 1.6 16V FLEX AUT.",
+      "ano": "2020/2021",
+      "placa": "RGP9C37",
+      "tipo": "CONSIG.",
+      "data_compra": "2025-09-02",
+      "dias_estoque": 215,
+      "compra": 92500.0,
+      "lancamentos_ate_agora": 1692.0,
+      "valor_anuncio": 92900.0,
+      "fipe_atual": 92744.0,
+      "margem_esperada": -1292.0
+    },
+    {
+      "codigo": "7843091",
+      "marca": "HYUNDAI",
+      "modelo": "HB20S 10TA COMFOR",
+      "ano": "2023/2024",
+      "placa": "SIV2H63",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-24",
+      "dias_estoque": 40,
+      "compra": 74000.0,
+      "lancamentos_ate_agora": 1997.68,
+      "valor_anuncio": 87900.0,
+      "fipe_atual": 86073.0,
+      "margem_esperada": 11902.320000000007
+    },
+    {
+      "codigo": "7867823",
+      "marca": "HYUNDAI",
+      "modelo": "HB20X VISION 1.6 MT",
+      "ano": "2020/2021",
+      "placa": "RIC8E51",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-03",
+      "dias_estoque": 33,
+      "compra": 65000.0,
+      "lancamentos_ate_agora": 1160.0,
+      "valor_anuncio": 74900.0,
+      "fipe_atual": 72567.0,
+      "margem_esperada": 8740.0
+    },
+    {
+      "codigo": "7525106",
+      "marca": "HYUNDAI",
+      "modelo": "IX35 GL",
+      "ano": "2018/2019",
+      "placa": "POI3787",
+      "tipo": "CONSIG.",
+      "data_compra": "2025-11-11",
+      "dias_estoque": 145,
+      "compra": 89900.0,
+      "lancamentos_ate_agora": 80.0,
+      "valor_anuncio": 89900.0,
+      "fipe_atual": 87994.0,
+      "margem_esperada": -80.0
+    },
+    {
+      "codigo": "7681046",
+      "marca": "JEEP",
+      "modelo": "COMMANDER LIMITED T270",
+      "ano": "2023/2023",
+      "placa": "SLO0J76",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-01-06",
+      "dias_estoque": 89,
+      "compra": 133990.0,
+      "lancamentos_ate_agora": 1700.0,
+      "valor_anuncio": 162900.0,
+      "fipe_atual": 158063.0,
+      "margem_esperada": 27210.0
+    },
+    {
+      "codigo": "7954741",
+      "marca": "JEEP",
+      "modelo": "COMPASS LIMITED D",
+      "ano": "2021/2021",
+      "placa": "RIF4B17",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-04-01",
+      "dias_estoque": 4,
+      "compra": 99380.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 122900.0,
+      "fipe_atual": 121006.0,
+      "margem_esperada": 23520.0
+    },
+    {
+      "codigo": "7873342",
+      "marca": "LEXUS",
+      "modelo": "ES 350 3.5 V-6 4P",
+      "ano": "2014/2015",
+      "placa": "PNA7H70",
+      "tipo": "CONSIG.",
+      "data_compra": "2026-03-07",
+      "dias_estoque": 29,
+      "compra": 120000.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 120000.0,
+      "fipe_atual": 119940.0,
+      "margem_esperada": 0.0
+    },
+    {
+      "codigo": "7138172",
+      "marca": "MINI",
+      "modelo": "HATCH JCW 3P",
+      "ano": "2021/2022",
+      "placa": "FOD0E03",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2025-07-11",
+      "dias_estoque": 268,
+      "compra": 185000.0,
+      "lancamentos_ate_agora": 4175.92,
+      "valor_anuncio": 204900.0,
+      "fipe_atual": 192480.0,
+      "margem_esperada": 15724.079999999987
+    },
+    {
+      "codigo": "5912819",
+      "marca": "RENAULT",
+      "modelo": "DUSTER 20 D 4X4",
+      "ano": "2018/2019",
+      "placa": "QRB6C53",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2024-04-27",
+      "dias_estoque": 708,
+      "compra": 60500.0,
+      "lancamentos_ate_agora": 10057.41,
+      "valor_anuncio": 73900.0,
+      "fipe_atual": 70714.0,
+      "margem_esperada": 3342.5899999999965
+    },
+    {
+      "codigo": "7417174",
+      "marca": "TOYOTA",
+      "modelo": "TOYOTA HILUX SW4 SRV4X4",
+      "ano": "2015/2015",
+      "placa": "PMF2403",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2025-10-01",
+      "dias_estoque": 186,
+      "compra": 139900.0,
+      "lancamentos_ate_agora": 8093.83,
+      "valor_anuncio": 155900.0,
+      "fipe_atual": 148190.0,
+      "margem_esperada": 7906.170000000013
+    },
+    {
+      "codigo": "7797682",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX 1.0",
+      "ano": "2007/2008",
+      "placa": "HYF9845",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-07",
+      "dias_estoque": 57,
+      "compra": 14000.0,
+      "lancamentos_ate_agora": 450.0,
+      "valor_anuncio": 0.0,
+      "fipe_atual": 20792.0,
+      "margem_esperada": -14450.0
+    },
+    {
+      "codigo": "7939102",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT HL TSI AA",
+      "ano": "2018/2018",
+      "placa": "QQI9I56",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-03-24",
+      "dias_estoque": 12,
+      "compra": 110000.0,
+      "lancamentos_ate_agora": -0.0,
+      "valor_anuncio": 134900.0,
+      "fipe_atual": 130679.0,
+      "margem_esperada": 24900.0
+    },
+    {
+      "codigo": "7835592",
+      "marca": "VOLKSWAGEN",
+      "modelo": "TIGUAN ALLSPACE RL",
+      "ano": "2019/2020",
+      "placa": "POT0A63",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2026-02-24",
+      "dias_estoque": 40,
+      "compra": 146175.92,
+      "lancamentos_ate_agora": 10540.0,
+      "valor_anuncio": 164900.0,
+      "fipe_atual": 157345.0,
+      "margem_esperada": 8184.079999999987
+    },
+    {
+      "codigo": "7465185",
+      "marca": "YAMAHA",
+      "modelo": "NMAX 160",
+      "ano": "2021/2022",
+      "placa": "SBA6E00",
+      "tipo": "PRÓPRIO",
+      "data_compra": "2025-10-23",
+      "dias_estoque": 164,
+      "compra": 14000.0,
+      "lancamentos_ate_agora": 363.96,
+      "valor_anuncio": 19900.0,
+      "fipe_atual": 0.0,
+      "margem_esperada": 5536.040000000001
+    }
+  ],
+  "entradas": [
+    {
+      "codigo": "7771623",
+      "data_compra": "2026-02-02",
+      "marca": "FORD",
+      "modelo": "ECOSPORT SE 1.6B",
+      "situacao": "VENDA",
+      "tipo": "PRÓPRIO",
+      "compra": 45000.0,
+      "fornecedor": "MF REPASSE"
+    },
+    {
+      "codigo": "7780624",
+      "data_compra": "2026-02-04",
+      "marca": "CITROEN",
+      "modelo": "C3 120A EXCLUSIV",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 21000.0,
+      "fornecedor": "ORLANDO MEDEIROS DOS SANTOS"
+    },
+    {
+      "codigo": "7782951",
+      "data_compra": "2026-02-05",
+      "marca": "JEEP",
+      "modelo": "COMPASS LONG TD",
+      "situacao": "VENDIDO",
+      "tipo": "CONSIG.",
+      "compra": 128403.66,
+      "fornecedor": "ANDRE LUIZ FENELON FRANCA RIBEIRO"
+    },
+    {
+      "codigo": "7797682",
+      "data_compra": "2026-02-07",
+      "marca": "VOLKSWAGEN",
+      "modelo": "FOX 1.0",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 14000.0,
+      "fornecedor": "DANILO SILVA DOS SANTOS"
+    },
+    {
+      "codigo": "7793412",
+      "data_compra": "2026-02-09",
+      "marca": "HONDA",
+      "modelo": "HR-V EX CVT",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 89990.0,
+      "fornecedor": "MF REPASSE"
+    },
+    {
+      "codigo": "7794732",
+      "data_compra": "2026-02-09",
+      "marca": "HONDA",
+      "modelo": "FIT LX MT",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 48000.0,
+      "fornecedor": "MARCELO WELES DA ROSA CORPES"
+    },
+    {
+      "codigo": "7798459",
+      "data_compra": "2026-02-10",
+      "marca": "FORD",
+      "modelo": "RANGER LTDCD4A32C",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 139900.0,
+      "fornecedor": "MF REPASSE"
+    },
+    {
+      "codigo": "7842250",
+      "data_compra": "2026-02-10",
+      "marca": "FIAT",
+      "modelo": "FREEMONT EMOTION",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 35000.0,
+      "fornecedor": "EUDES CLISTENES GUERRA XIOTES"
+    },
+    {
+      "codigo": "7801510",
+      "data_compra": "2026-02-11",
+      "marca": "JEEP",
+      "modelo": "COMPASS LONGITUDE F",
+      "situacao": "VENDIDO",
+      "tipo": "CONSIG.",
+      "compra": 82650.0,
+      "fornecedor": "LUCAS RODRIGUES DANTAS"
+    },
+    {
+      "codigo": "7818873",
+      "data_compra": "2026-02-11",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX PLUS 10TAT PR2",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 60000.0,
+      "fornecedor": "ANDERSON ROBERTO SILVA"
+    },
+    {
+      "codigo": "7818874",
+      "data_compra": "2026-02-12",
+      "marca": "NISSAN",
+      "modelo": "NISSAN SENTRA 20SV CVT",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 28000.0,
+      "fornecedor": "VICTORIA MACEDO ANTUNES"
+    },
+    {
+      "codigo": "7819660",
+      "data_compra": "2026-02-13",
+      "marca": "LAND ROVER",
+      "modelo": "DISC SPT D200 SE",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 199900.0,
+      "fornecedor": "FRANCISCO FELIPPE MATOS SOUSA"
+    },
+    {
+      "codigo": "7834316",
+      "data_compra": "2026-02-19",
+      "marca": "TOYOTA",
+      "modelo": "COROLLA XEI18VVT",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 22000.0,
+      "fornecedor": "LUCAS LOPES DE NORONHA"
+    },
+    {
+      "codigo": "7826899",
+      "data_compra": "2026-02-20",
+      "marca": "FIAT",
+      "modelo": "TORO VOLCANO AT D4",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 75740.4,
+      "fornecedor": "TEREZA CARITAS MAIA FONTENELE CHAVES"
+    },
+    {
+      "codigo": "7858401",
+      "data_compra": "2026-02-23",
+      "marca": "HONDA",
+      "modelo": "CITY EXL CVT",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 93000.0,
+      "fornecedor": "EDINARDO PEIXOTO DE FREITAS"
+    },
+    {
+      "codigo": "7835592",
+      "data_compra": "2026-02-24",
+      "marca": "VOLKSWAGEN",
+      "modelo": "TIGUAN ALLSPACE RL",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 146175.92,
+      "fornecedor": "NEWSEDAN"
+    },
+    {
+      "codigo": "7843091",
+      "data_compra": "2026-02-24",
+      "marca": "HYUNDAI",
+      "modelo": "HB20S 10TA COMFOR",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 74000.0,
+      "fornecedor": "JOAO MATIAS VICTOR DA SILVA"
+    },
+    {
+      "codigo": "7851072",
+      "data_compra": "2026-02-28",
+      "marca": "FIAT",
+      "modelo": "FASTBACK TURBO 270",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 102000.0,
+      "fornecedor": "RUANY DA COSTA ANDRADE"
+    },
+    {
+      "codigo": "7859284",
+      "data_compra": "2026-03-03",
+      "marca": "HONDA",
+      "modelo": "CITY HATCHBACK EXL 1.5 FLEX 16V AUT.",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 85000.0,
+      "fornecedor": "ANA WLADIA ALEXANDRE DE SOUSA"
+    },
+    {
+      "codigo": "7867823",
+      "data_compra": "2026-03-03",
+      "marca": "HYUNDAI",
+      "modelo": "HB20X VISION 1.6 MT",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 65000.0,
+      "fornecedor": "MARIA FILOMENA DE OLIVEIRA CARNEIRO"
+    },
+    {
+      "codigo": "7871501",
+      "data_compra": "2026-03-06",
+      "marca": "TOYOTA",
+      "modelo": "CCROSS XRX HYBRID",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 137900.0,
+      "fornecedor": "LAWRENCE MARTINS RABELO"
+    },
+    {
+      "codigo": "7873342",
+      "data_compra": "2026-03-07",
+      "marca": "LEXUS",
+      "modelo": "ES 350 3.5 V-6 4P",
+      "situacao": "ESTOQUE",
+      "tipo": "CONSIG.",
+      "compra": 120000.0,
+      "fornecedor": "FERNANDO SOARES GURGEL"
+    },
+    {
+      "codigo": "7876338",
+      "data_compra": "2026-03-09",
+      "marca": "HONDA",
+      "modelo": "HR-V TOURING",
+      "situacao": "VENDIDO",
+      "tipo": "PRÓPRIO",
+      "compra": 145000.0,
+      "fornecedor": "VAAPTY"
+    },
+    {
+      "codigo": "7891488",
+      "data_compra": "2026-03-10",
+      "marca": "BMW",
+      "modelo": "X5 XDRIVE 30D 3.0 DIESEL",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 280000.0,
+      "fornecedor": "JOSE EDSON PEREIRA DOS SANTOS"
+    },
+    {
+      "codigo": "7926784",
+      "data_compra": "2026-03-16",
+      "marca": "AUDI",
+      "modelo": "A3 LM 150CV",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 68900.0,
+      "fornecedor": "ARMANDO MENDES MOREIRA"
+    },
+    {
+      "codigo": "7907669",
+      "data_compra": "2026-03-17",
+      "marca": "CHEVROLET",
+      "modelo": "ONIX 1.0 TAT LTZ",
+      "situacao": "VENDA",
+      "tipo": "PRÓPRIO",
+      "compra": 56000.0,
+      "fornecedor": "GUILHERME NEDEL HOLSBACH"
+    },
+    {
+      "codigo": "7937686",
+      "data_compra": "2026-03-20",
+      "marca": "CHEVROLET",
+      "modelo": "CRUZE LTZ NB AT",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 75000.0,
+      "fornecedor": "JEANNE FERREIRA GOMES"
+    },
+    {
+      "codigo": "7927758",
+      "data_compra": "2026-03-24",
+      "marca": "CAOA CHERY",
+      "modelo": "TIGGO 8 1.6 TGDI",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 110000.0,
+      "fornecedor": "PEDRO PAULO MELO JORGE DE MEDEIROS"
+    },
+    {
+      "codigo": "7939102",
+      "data_compra": "2026-03-24",
+      "marca": "VOLKSWAGEN",
+      "modelo": "PASSAT HL TSI AA",
+      "situacao": "ESTOQUE",
+      "tipo": "PRÓPRIO",
+      "compra": 110000.0,
+      "fornecedor": "LUCIANO MAGALHAES MACEDO"
+    }
+  ],
+  "lancamentos_por_carro": {
+    "7699489": [
+      {
+        "data": "2026-01-22",
+        "descricao": "CAPOTARIA BMW BRANCA. - 320I ACTIVE FLEX - ANO: 2018 PLACA: PNZ8D92",
+        "valor": -100.0
+      },
+      {
+        "data": "2026-01-27",
+        "descricao": "COMBUSTÍVEL BMW BRANCA. - 320I ACTIVE FLEX - ANO: 2018 PLACA: PNZ8D92",
+        "valor": -60.0
+      },
+      {
+        "data": "2026-02-02",
+        "descricao": "REVISÃO BMW. - 320I ACTIVE FLEX - ANO: 2018 PLACA: PNZ8D92",
+        "valor": -3060.0
+      },
+      {
+        "data": "2026-02-03",
+        "descricao": "COMBUSTÍVEL. - 320I ACTIVE FLEX - ANO: 2018 PLACA: PNZ8D92",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-02-20",
+        "descricao": "COMBUSTÍVEL BMW, 70 DIA 20/02 E 50 DIA 23/02. - 320I ACTIVE FLEX - ANO: 2018 PLACA: PNZ8D92",
+        "valor": -120.0
+      },
+      {
+        "data": "2026-02-23",
+        "descricao": "REVISÃO DE AMORTECEDOR E SUSPENSÃO BMW BRANCA. R$ 3.500,00 PAGUEI EM PIX E 3500 DE DESCONTO AMG. - 320I ACTIVE FLEX - ANO: 2018 PLACA: PNZ8D92",
+        "valor": -7000.0
+      },
+      {
+        "data": "2026-02-26",
+        "descricao": "PARCELA 1 IPVA BMW BRANCA. - 320I ACTIVE FLEX - ANO: 2018 PLACA: PNZ8D92",
+        "valor": -944.18
+      }
+    ],
+    "7663573": [
+      {
+        "data": "2025-12-26",
+        "descricao": "COMBUSTÍVEL AUDI. - A3 LM 150 CV - ANO: 2017 PLACA: POO4A40",
+        "valor": -80.0
+      },
+      {
+        "data": "2026-01-27",
+        "descricao": "REVISÃO DE SUSPENSÃO E MOLAS. - A3 LM 150 CV - ANO: 2017 PLACA: POO4A40",
+        "valor": -1926.0
+      },
+      {
+        "data": "2026-01-27",
+        "descricao": "COMBUSTÍVEL A3 BRANCO. - A3 LM 150 CV - ANO: 2017 PLACA: POO4A40",
+        "valor": -80.0
+      },
+      {
+        "data": "2026-02-03",
+        "descricao": "REVISÃO DO BERG DO A3. - A3 LM 150 CV - ANO: 2017 PLACA: POO4A40",
+        "valor": -3333.0
+      },
+      {
+        "data": "2026-02-06",
+        "descricao": "MOLAS AUDI BRANCO. - A3 LM 150 CV - ANO: 2017 PLACA: POO4A40",
+        "valor": -801.0
+      },
+      {
+        "data": "2026-02-12",
+        "descricao": "FUNILARIA A3 BRANCO. - A3 LM 150 CV - ANO: 2017 PLACA: POO4A40",
+        "valor": -900.0
+      }
+    ],
+    "7464999": [
+      {
+        "data": "2025-10-27",
+        "descricao": "TRANSPORTE AIRCROSS. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -800.0
+      },
+      {
+        "data": "2025-10-30",
+        "descricao": "COMPRESSOR DO AIRCROSS BRANCO. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -1308.52
+      },
+      {
+        "data": "2025-11-24",
+        "descricao": "REVISÃO AIR CROSS. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -3061.0
+      },
+      {
+        "data": "2025-11-25",
+        "descricao": "SERVIÇO DE AR CONDICIONADO AIR CROSS. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -1880.0
+      },
+      {
+        "data": "2025-11-26",
+        "descricao": "MOLDURA AIRCROSS. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -757.98
+      },
+      {
+        "data": "2025-12-05",
+        "descricao": "FUNILARIA AIRCROSS BRANCO. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -3730.0
+      },
+      {
+        "data": "2025-12-09",
+        "descricao": "PREPARAÇÃO DA AIRCROSS BRANCA. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -310.0
+      },
+      {
+        "data": "2025-12-10",
+        "descricao": "COMBUSTÍVEL AIRCROSS BRANCO. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -70.0
+      },
+      {
+        "data": "2025-12-11",
+        "descricao": "DSP AIRCROSS BRANCA. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -100.0
+      },
+      {
+        "data": "2025-12-12",
+        "descricao": "CHAVE DA AIRCROSS BRANCA. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -320.0
+      },
+      {
+        "data": "2026-01-05",
+        "descricao": "PEÇA AIRCROSS BRANCO. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -920.0
+      },
+      {
+        "data": "2026-02-02",
+        "descricao": "COMBUSTÍVEL AIRCROSS BRANCO. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-02-04",
+        "descricao": "BORRACHAS DA PORTA DO AIRCROSS. - AIRCROSS FEEL 1.6 FLEX 16V 5P AUT - ANO: 2017 PLACA: PIW6961",
+        "valor": -265.0
+      }
+    ],
+    "7633246": [
+      {
+        "data": "2026-02-18",
+        "descricao": "RETORNO DO CARTÃO. - AMG A35SD 4M - ANO: 2021 PLACA: QYT6G18",
+        "valor": 2500.0
+      }
+    ],
+    "7650581": [
+      {
+        "data": "2026-01-05",
+        "descricao": "COMBUSTÍVEL MERCEDES PRATA. - C180TURBO - ANO: 2014 PLACA: OIH2910",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-01-15",
+        "descricao": "REVISÃO MERCEDES. - C180TURBO - ANO: 2014 PLACA: OIH2910",
+        "valor": -3708.0
+      },
+      {
+        "data": "2026-01-22",
+        "descricao": "COMBUSTÍVEL MERCEDES PRATA. - C180TURBO - ANO: 2014 PLACA: OIH2910",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-01-22",
+        "descricao": "CAPOTARIA MERCEDES PRATA. - C180TURBO - ANO: 2014 PLACA: OIH2910",
+        "valor": -400.0
+      },
+      {
+        "data": "2026-01-22",
+        "descricao": "FUNILARIA MERCEDES. - C180TURBO - ANO: 2014 PLACA: OIH2910",
+        "valor": -700.0
+      },
+      {
+        "data": "2026-01-23",
+        "descricao": "PINTURA DE AROS. - C180TURBO - ANO: 2014 PLACA: OIH2910",
+        "valor": -570.0
+      },
+      {
+        "data": "2026-01-29",
+        "descricao": "PALETAS MERCEDES PRATA. - C180TURBO - ANO: 2014 PLACA: OIH2910",
+        "valor": -170.0
+      },
+      {
+        "data": "2026-03-03",
+        "descricao": "SERVIÇO MERCEDES PRATA. - C180TURBO - ANO: 2014 PLACA: OIH2910",
+        "valor": -30.0
+      }
+    ],
+    "7871501": [
+      {
+        "data": "2026-03-06",
+        "descricao": "LAUDO COROLLA CROSS. - CCROSS XRX HYBRID - ANO: 2022 PLACA: RGJ4C20",
+        "valor": -200.0
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "DSP COROLLA CROSS VERMELHO. - CCROSS XRX HYBRID - ANO: 2022 PLACA: RGJ4C20",
+        "valor": -500.0
+      },
+      {
+        "data": "2026-03-26",
+        "descricao": "REVISÃO E ATIVAÇÃO DE GARANTIA. - CCROSS XRX HYBRID - ANO: 2022 PLACA: RGJ4C20",
+        "valor": -1864.51
+      }
+    ],
+    "7186489": [
+      {
+        "data": "2025-08-11",
+        "descricao": "COMBUSTÍVEL EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -100.0
+      },
+      {
+        "data": "2025-08-11",
+        "descricao": "TRANSPORTE EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -800.0
+      },
+      {
+        "data": "2025-08-19",
+        "descricao": "COMBUSTÍVEL EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -50.0
+      },
+      {
+        "data": "2025-08-19",
+        "descricao": "CONSERTO PORTA MALAS EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -350.0
+      },
+      {
+        "data": "2025-08-19",
+        "descricao": "UBER PEGAR NO ZÉ DAS PORTAS, DEIXAR WITAMY E PEGAR WITAMY. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -31.04
+      },
+      {
+        "data": "2025-08-20",
+        "descricao": "UBER PEGAR EQUINOX FELIPE DA SERVICE IMPORTS. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -6.52
+      },
+      {
+        "data": "2025-08-20",
+        "descricao": "REVISÃO EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -4300.0
+      },
+      {
+        "data": "2025-08-22",
+        "descricao": "FUNILARIA EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -600.0
+      },
+      {
+        "data": "2025-08-22",
+        "descricao": "REVISÃO BERG. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -1291.0
+      },
+      {
+        "data": "2025-09-01",
+        "descricao": "PREPARAÇÃO EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -400.0
+      },
+      {
+        "data": "2025-09-02",
+        "descricao": "VOLANTE EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -160.0
+      },
+      {
+        "data": "2025-09-05",
+        "descricao": "TROCA DE SENSOR DA EQUINOX. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -802.0
+      },
+      {
+        "data": "2025-09-16",
+        "descricao": "COMBUSTÍVEL EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -80.0
+      },
+      {
+        "data": "2025-09-17",
+        "descricao": "DSP EQUINOX 2 PARALAMAS, LATERAL, 3 PORTAS. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1830",
+        "valor": -370.0
+      },
+      {
+        "data": "2025-10-24",
+        "descricao": "REVISÃO DE FREIO E REFAZER SERVIÇO DA BUCHA DA SAPATA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -1280.0
+      },
+      {
+        "data": "2025-11-03",
+        "descricao": "REPARO PARABRISA EQUINOX. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -170.0
+      },
+      {
+        "data": "2025-11-04",
+        "descricao": "COMBUSTÍVEL. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -80.0
+      },
+      {
+        "data": "2025-11-24",
+        "descricao": "OLEO DIFERENCIAL EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -245.0
+      },
+      {
+        "data": "2025-11-26",
+        "descricao": "COMBUSTÍVEL EQUINOX BRANCA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -70.0
+      },
+      {
+        "data": "2025-12-02",
+        "descricao": "COMBUSTÍVEL EQUINOX PIX CAIXA. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -70.0
+      },
+      {
+        "data": "2025-12-09",
+        "descricao": "SUSPENSÃO EQUINOX BRANCO. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -766.0
+      },
+      {
+        "data": "2025-12-13",
+        "descricao": "BATERIA EQUINOX. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -1620.0
+      },
+      {
+        "data": "2026-01-14",
+        "descricao": "CONSERTO DE VAZAMENTO. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -1260.0
+      },
+      {
+        "data": "2026-02-18",
+        "descricao": "TANQUE DE COMBUSTÍVEL. - CHEV EQUINOX PREMIER - ANO: 2019 PLACA: QRR1I30",
+        "valor": -369.29
+      }
+    ],
+    "7858401": [
+      {
+        "data": "2026-03-12",
+        "descricao": "DSP CITY BRANCO. - CITY EXL CVT - ANO: 2023 PLACA: SBV2G36",
+        "valor": -410.0
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "TROCA DE ÓLEO. - CITY EXL CVT - ANO: 2023 PLACA: SBV2G36",
+        "valor": -216.0
+      }
+    ],
+    "7859284": [
+      {
+        "data": "2026-03-12",
+        "descricao": "DSP CITY CINZA. - CITY HATCHBACK EXL 1.5 FLEX 16V AUT. - ANO: 2022 PLACA: SBN5J40",
+        "valor": -410.0
+      }
+    ],
+    "7614577": [
+      {
+        "data": "2025-12-10",
+        "descricao": "TAXA AUTOAVALIAR. - CIVIC EXL CVT - ANO: 2018 PLACA: QSB5F50",
+        "valor": -1022.28
+      },
+      {
+        "data": "2025-12-29",
+        "descricao": "REVISÃO CIVIC PRETO. - CIVIC EXL CVT - ANO: 2018 PLACA: QSB5F50",
+        "valor": -2622.0
+      },
+      {
+        "data": "2025-12-31",
+        "descricao": "COMBUSTÍVEL CIVIC PRETO. - CIVIC EXL CVT - ANO: 2018 PLACA: QSB5F50",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-01-12",
+        "descricao": "POLIMENTO CIVIC PRETO. - CIVIC EXL CVT - ANO: 2018 PLACA: QSB5F50",
+        "valor": -400.0
+      },
+      {
+        "data": "2026-01-20",
+        "descricao": "DSP CIVIC PRETO. - CIVIC EXL CVT - ANO: 2018 PLACA: QSB5F50",
+        "valor": -550.0
+      },
+      {
+        "data": "2026-01-30",
+        "descricao": "BATERIA CIVIC PRETO. - CIVIC EXL CVT - ANO: 2018 PLACA: QSB5F50",
+        "valor": -539.0
+      },
+      {
+        "data": "2026-02-02",
+        "descricao": "REVISÃO NA CONCESSIONÁRIA DO CIVIC. - CIVIC EXL CVT - ANO: 2018 PLACA: QSB5F50",
+        "valor": -795.36
+      }
+    ],
+    "7682010": [
+      {
+        "data": "2026-01-21",
+        "descricao": "DSP CIVIC CINZA, - CIVIC EXL CVT - ANO: 2018 PLACA: PMS2072",
+        "valor": -450.0
+      },
+      {
+        "data": "2026-01-23",
+        "descricao": "CALOTINHA CIVIC CINZA. - CIVIC EXL CVT - ANO: 2018 PLACA: PMS2072",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-02-21",
+        "descricao": "REVISÃO CIVIC CINZA. - CIVIC EXL CVT - ANO: 2018 PLACA: PMS2072",
+        "valor": -747.0
+      }
+    ],
+    "7416475": [
+      {
+        "data": "2025-10-01",
+        "descricao": "COMBUSTÍVEL COMPASS. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -80.0
+      },
+      {
+        "data": "2025-10-03",
+        "descricao": "FAROL COMPASS PRETA. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -1200.0
+      },
+      {
+        "data": "2025-10-09",
+        "descricao": "COMBUSTÍVEL COMPASS. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -100.0
+      },
+      {
+        "data": "2025-10-09",
+        "descricao": "TAMPA DE FAROL COMPASS PRETA. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -204.71
+      },
+      {
+        "data": "2025-10-13",
+        "descricao": "PINTURA COMPASS PRETA. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -1300.0
+      },
+      {
+        "data": "2025-10-23",
+        "descricao": "DSP COMPASS PRETA. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -200.0
+      },
+      {
+        "data": "2025-10-24",
+        "descricao": "REVISÃO COMPASS PRETA. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -997.0
+      },
+      {
+        "data": "2025-11-04",
+        "descricao": "PREPARAÇÃO COMPASS. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -400.0
+      },
+      {
+        "data": "2025-11-20",
+        "descricao": "COMBUSTÍVEL COMPASS. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -80.0
+      },
+      {
+        "data": "2025-12-11",
+        "descricao": "DSP DA OUTRA LATERAL. - COMPASS LONGITUDE D - ANO: 2018 PLACA: POG0I47",
+        "valor": -100.0
+      }
+    ],
+    "7782951": [
+      {
+        "data": "2026-02-26",
+        "descricao": "COMBUSTÍVEL COMPASS PRATA. - COMPASS LONG TD - ANO: 2022 PLACA: RIH3J54",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-02-27",
+        "descricao": "COMBUSTÍVEL COMPASS. - COMPASS LONG TD - ANO: 2022 PLACA: RIH3J54",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-14",
+        "descricao": "REPARO DA CAIXA DE DIREÇÃO, CLIENTE PAGOU 550 E LOJA 350. - COMPASS LONG TD - ANO: 2022 PLACA: RIH3J54",
+        "valor": -350.0
+      }
+    ],
+    "7553478": [
+      {
+        "data": "2025-12-04",
+        "descricao": "GERAL DOS AROS COROLLA CINZA. - COROLLA GLI18 CVT - ANO: 2017 PLACA: PIS2F62",
+        "valor": -530.0
+      },
+      {
+        "data": "2025-12-05",
+        "descricao": "FUNILARIA COROLLA CINZA. - COROLLA GLI18 CVT - ANO: 2017 PLACA: PIS2F62",
+        "valor": -350.0
+      },
+      {
+        "data": "2025-12-09",
+        "descricao": "REVISÃO COROLLA CINZA. - COROLLA GLI18 CVT - ANO: 2017 PLACA: PIS2F62",
+        "valor": -1015.0
+      },
+      {
+        "data": "2025-12-11",
+        "descricao": "COMBUSTÍVEL COROLLA CINZA. - COROLLA GLI18 CVT - ANO: 2017 PLACA: PIS2F62",
+        "valor": -50.0
+      },
+      {
+        "data": "2025-12-11",
+        "descricao": "DSP COROLLA CINZA. - COROLLA GLI18 CVT - ANO: 2017 PLACA: PIS2F62",
+        "valor": -550.0
+      },
+      {
+        "data": "2025-12-16",
+        "descricao": "COMBUSTÍVEL COROLLA CINZA. - COROLLA GLI18 CVT - ANO: 2017 PLACA: PIS2F62",
+        "valor": -345.73
+      },
+      {
+        "data": "2025-12-22",
+        "descricao": "CHAVE RESERVA COROLLA CINZA. - COROLLA GLI18 CVT - ANO: 2017 PLACA: PIS2F62",
+        "valor": -170.0
+      },
+      {
+        "data": "2025-12-22",
+        "descricao": "LAMPADA E RETROVISOR. - COROLLA GLI18 CVT - ANO: 2017 PLACA: PIS2F62",
+        "valor": -50.0
+      }
+    ],
+    "7739041": [
+      {
+        "data": "2026-02-02",
+        "descricao": "METADE DO TRANSPORTE DA CRETA PRETA. - CRETA 1TA PLATINUM - ANO: 2024 PLACA: SNY7A83",
+        "valor": -700.0
+      },
+      {
+        "data": "2026-02-19",
+        "descricao": "RESTANTE DO TRABSPORTE CRETA. - CRETA 1TA PLATINUM - ANO: 2024 PLACA: SNY7A83",
+        "valor": -700.0
+      },
+      {
+        "data": "2026-02-19",
+        "descricao": "COMBUSTIVEL CRETA. - CRETA 1TA PLATINUM - ANO: 2024 PLACA: SNY7A83",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-02-24",
+        "descricao": "FUNILARIA CRETA LATERAL TRASEIRA DIREITA E PORTA TREASEIRA DIRETA. - CRETA 1TA PLATINUM - ANO: 2024 PLACA: SNY7A83",
+        "valor": -700.0
+      },
+      {
+        "data": "2026-02-25",
+        "descricao": "LIMPEZA CRETA. - CRETA 1TA PLATINUM - ANO: 2024 PLACA: SNY7A83",
+        "valor": -350.0
+      },
+      {
+        "data": "2026-03-17",
+        "descricao": "MULTA CRETA DEIXAR DE TRANSFERIR EM 30 DIAS. - CRETA 1TA PLATINUM - ANO: 2024 PLACA: SNY7A83",
+        "valor": -104.13
+      },
+      {
+        "data": "2026-04-01",
+        "descricao": "VOLANTE CRETA PRETA. - CRETA 1TA PLATINUM - ANO: 2024 PLACA: SNY7A83",
+        "valor": -180.0
+      }
+    ],
+    "7819660": [
+      {
+        "data": "2026-02-16",
+        "descricao": "LAUDO DISCOVERY. - DISC SPT D200 SE - ANO: 2022 PLACA: RSL4C30",
+        "valor": -200.0
+      },
+      {
+        "data": "2026-03-06",
+        "descricao": "PARCELA 1 E 2 DO IPVA DISCOVERY. - DISC SPT D200 SE - ANO: 2022 PLACA: RSL4C30",
+        "valor": -3640.96
+      }
+    ],
+    "7097173": [
+      {
+        "data": "2025-06-27",
+        "descricao": "COMISSÃO DE COMPRA ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -7000.0
+      },
+      {
+        "data": "2025-06-30",
+        "descricao": "VISTORIA ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -200.0
+      },
+      {
+        "data": "2025-07-02",
+        "descricao": "CAIXA DE DIREÇÃO ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -1000.0
+      },
+      {
+        "data": "2025-07-02",
+        "descricao": "UBER DEIXAR CARRO NO BERG. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -18.65
+      },
+      {
+        "data": "2025-07-08",
+        "descricao": "UBER ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -34.53
+      },
+      {
+        "data": "2025-07-09",
+        "descricao": "FUNILARIA ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -1200.0
+      },
+      {
+        "data": "2025-07-09",
+        "descricao": "UBER DEIXAR BERG E PEGAR NO ARNALDO. ECLIPSE. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -27.42
+      },
+      {
+        "data": "2025-07-11",
+        "descricao": "UBER ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -13.92
+      },
+      {
+        "data": "2025-07-11",
+        "descricao": "PNEUS ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -1308.0
+      },
+      {
+        "data": "2025-07-15",
+        "descricao": "REVISÃO ECLPISE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -1629.0
+      },
+      {
+        "data": "2025-07-16",
+        "descricao": "UBER ECLIPSE PARA WTECH CÂMBIO. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -14.94
+      },
+      {
+        "data": "2025-07-16",
+        "descricao": "COMBUSTÍVEL ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -50.0
+      },
+      {
+        "data": "2025-07-23",
+        "descricao": "METADE DO SERVIÇO FEITO PELO VITOR. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -2000.0
+      },
+      {
+        "data": "2025-07-29",
+        "descricao": "DIFERENCIAL TRASEIRO ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -3100.0
+      },
+      {
+        "data": "2025-08-07",
+        "descricao": "COMBUSTÍVEL ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -50.0
+      },
+      {
+        "data": "2025-08-20",
+        "descricao": "COMBUSTÍVEL ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -50.0
+      },
+      {
+        "data": "2025-08-22",
+        "descricao": "REBOQUE ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -200.0
+      },
+      {
+        "data": "2025-09-05",
+        "descricao": "CONSERTO INJEÇÃO ECLIPSE. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -526.0
+      },
+      {
+        "data": "2025-09-05",
+        "descricao": "COMBUSTÍVEL ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -70.0
+      },
+      {
+        "data": "2025-09-19",
+        "descricao": "REBOQUE ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -200.0
+      },
+      {
+        "data": "2025-09-23",
+        "descricao": "UBER ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -17.97
+      },
+      {
+        "data": "2025-10-29",
+        "descricao": "DIAGNÓSTICO ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -200.0
+      },
+      {
+        "data": "2026-01-05",
+        "descricao": "COMBUSTÍVEL ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-01-20",
+        "descricao": "LICENCIAMENTO ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -220.45
+      },
+      {
+        "data": "2026-01-26",
+        "descricao": "REBOQUE ECLIPSE MARROM. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -200.0
+      },
+      {
+        "data": "2026-01-28",
+        "descricao": "COMBUSTÍVEL ECLIPSE. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -60.0
+      },
+      {
+        "data": "2026-01-30",
+        "descricao": "RETORNO DO CARTÃO ECLIPSE. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": 210.0
+      },
+      {
+        "data": "2026-02-03",
+        "descricao": "CONSERTO DOS BICOS ECLIPSE. - ECLIPSE CROSS HPE - S AWC AUT - ANO: 2019 PLACA: POV5648",
+        "valor": -430.0
+      }
+    ],
+    "7771623": [
+      {
+        "data": "2026-02-19",
+        "descricao": "TRANSPORTE ECOSPORT. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -700.0
+      },
+      {
+        "data": "2026-02-19",
+        "descricao": "COMBUSTÍVEL ECOSPORT. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-03-06",
+        "descricao": "COMBUSTÍVEL ECOSPORT. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-07",
+        "descricao": "REVISÃO ECOSPORT PRETA. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -2303.0
+      },
+      {
+        "data": "2026-03-10",
+        "descricao": "1 MANOPLA ECOSPORT PRETA. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -75.0
+      },
+      {
+        "data": "2026-03-10",
+        "descricao": "COMBUSTÍVEL. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-03-12",
+        "descricao": "FUNILARIA ECOSPORT PRETA. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -1400.0
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "REVESTIMENTO DE PORTAS. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -250.0
+      },
+      {
+        "data": "2026-03-26",
+        "descricao": "CHAVE ECOSPORT PRETA. - ECOSPORT SE 1.6B - ANO: 2017 PLACA: PIR8164",
+        "valor": -300.0
+      }
+    ],
+    "7851072": [
+      {
+        "data": "2026-03-24",
+        "descricao": "PARCELA 2 IPVA. - FASTBACK TURBO 270 - ANO: 2023 PLACA: SBB4A46",
+        "valor": -808.28
+      },
+      {
+        "data": "2026-03-24",
+        "descricao": "TANQUE DE COMBUSTÍVEL. - FASTBACK TURBO 270 - ANO: 2023 PLACA: SBB4A46",
+        "valor": -274.22
+      }
+    ],
+    "7794732": [
+      {
+        "data": "2026-02-19",
+        "descricao": "FUNILARIA FIT PRATA. - FIT LX MT - ANO: 2015 PLACA: QGA7B18",
+        "valor": -3000.0
+      },
+      {
+        "data": "2026-02-21",
+        "descricao": "REVISÃO FIT PRATA. - FIT LX MT - ANO: 2015 PLACA: QGA7B18",
+        "valor": -735.0
+      },
+      {
+        "data": "2026-02-23",
+        "descricao": "LAVAGEM FIT PRATA. - FIT LX MT - ANO: 2015 PLACA: QGA7B18",
+        "valor": -330.0
+      },
+      {
+        "data": "2026-03-20",
+        "descricao": "BEBIDA DE BRINDE FIT. - FIT LX MT - ANO: 2015 PLACA: QGA7B18",
+        "valor": -127.9
+      }
+    ],
+    "7797682": [
+      {
+        "data": "2026-03-12",
+        "descricao": "COMBUSTÍVEL FOX. - FOX 1.0 - ANO: 2008 PLACA: HYF9845",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-12",
+        "descricao": "REMARCAR MOTOR DO CARRO. - FOX 1.0 - ANO: 2008 PLACA: HYF9845",
+        "valor": -400.0
+      }
+    ],
+    "7842250": [
+      {
+        "data": "2026-02-27",
+        "descricao": "VISTORIA FREEMONT. - FREEMONT EMOTION - ANO: 2014 PLACA: OYW5750",
+        "valor": -150.0
+      }
+    ],
+    "7633021": [
+      {
+        "data": "2025-12-17",
+        "descricao": "SERVIÇO LUZ DE INJEÇÃO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -900.0
+      },
+      {
+        "data": "2025-12-26",
+        "descricao": "CONSERTO RODA GOLF BRANCO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -150.0
+      },
+      {
+        "data": "2025-12-29",
+        "descricao": "PINTURA PARA-CHOQUE GOLF BRANCO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -250.0
+      },
+      {
+        "data": "2026-01-06",
+        "descricao": "COMBUSTÍVEL GOLF BRANCO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-01-10",
+        "descricao": "CONSERTO MAQUINA DE VIDRO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -250.0
+      },
+      {
+        "data": "2026-01-12",
+        "descricao": "ALAVANCA GOLF BRANCO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -39.99
+      },
+      {
+        "data": "2026-01-12",
+        "descricao": "CAPOTARIA GOLF BRANCO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -630.0
+      },
+      {
+        "data": "2026-01-15",
+        "descricao": "LAUDO GOLF BRANCO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -200.0
+      },
+      {
+        "data": "2026-01-22",
+        "descricao": "COMBUSTÍVEL GOLF BRANCO. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -315.0
+      },
+      {
+        "data": "2026-02-02",
+        "descricao": "CONSERTO GOLF. - GOLF HIGHLINE MA - ANO: 2014 PLACA: OII2C70",
+        "valor": -200.0
+      }
+    ],
+    "7843091": [
+      {
+        "data": "2026-02-26",
+        "descricao": "LICENCIAMENTO HB20 BRANCO. - HB20S 10TA COMFOR - ANO: 2024 PLACA: SIV2H63",
+        "valor": -247.26
+      },
+      {
+        "data": "2026-02-26",
+        "descricao": "DUAS PARCELAS DO IPVA DO HB20. - HB20S 10TA COMFOR - ANO: 2024 PLACA: SIV2H63",
+        "valor": -1400.42
+      },
+      {
+        "data": "2026-03-12",
+        "descricao": "COMBUSTÍVEL CARTÃO VINI. - HB20S 10TA COMFOR - ANO: 2024 PLACA: SIV2H63",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "COMBUSTÍVEL HB20 BRANCO. - HB20S 10TA COMFOR - ANO: 2024 PLACA: SIV2H63",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-20",
+        "descricao": "PINTURA DE UM PARACHOQUE. - HB20S 10TA COMFOR - ANO: 2024 PLACA: SIV2H63",
+        "valor": -250.0
+      }
+    ],
+    "7867823": [
+      {
+        "data": "2026-03-06",
+        "descricao": "LAVAGEM HB20. - HB20X VISION 1.6 MT - ANO: 2021 PLACA: RIC8E51",
+        "valor": -330.0
+      },
+      {
+        "data": "2026-03-12",
+        "descricao": "DSP HB20 PRATA. - HB20X VISION 1.6 MT - ANO: 2021 PLACA: RIC8E51",
+        "valor": -410.0
+      },
+      {
+        "data": "2026-03-12",
+        "descricao": "COMBUSTÍVEL NO CARTÃO DO VINÍCIUS. - HB20X VISION 1.6 MT - ANO: 2021 PLACA: RIC8E51",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "TROCA DE PEÇAS DO BANCO HB20 PRATA. - HB20X VISION 1.6 MT - ANO: 2021 PLACA: RIC8E51",
+        "valor": -350.0
+      }
+    ],
+    "7793412": [
+      {
+        "data": "2026-02-27",
+        "descricao": "COMBUSTÍVEL HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-03-07",
+        "descricao": "REVISÃO HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -2913.0
+      },
+      {
+        "data": "2026-03-12",
+        "descricao": "FUNILARIA HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -1300.0
+      },
+      {
+        "data": "2026-03-13",
+        "descricao": "LAVAGEM HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -350.0
+      },
+      {
+        "data": "2026-03-13",
+        "descricao": "COMBUSTÍVEL HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -100.0
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "VOLANTE HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -160.0
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "DSP HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -400.0
+      },
+      {
+        "data": "2026-03-27",
+        "descricao": "TRANSPORTE HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -900.0
+      },
+      {
+        "data": "2026-03-31",
+        "descricao": "LIMPADOR DE PARABRISA HRV AZUL. - HR-V EX CVT - ANO: 2019 PLACA: OUE6071",
+        "valor": -100.0
+      }
+    ],
+    "7876338": [
+      {
+        "data": "2026-03-12",
+        "descricao": "DSP HRV CINZA. - HR-V TOURING - ANO: 2024 PLACA: SAZ8B19",
+        "valor": -400.0
+      },
+      {
+        "data": "2026-03-12",
+        "descricao": "PNEUS HRV. - HR-V TOURING - ANO: 2024 PLACA: SAZ8B19",
+        "valor": -3177.72
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "TROCA DA BUCHA DA SAPATA GRANDE. - HR-V TOURING - ANO: 2024 PLACA: SAZ8B19",
+        "valor": -417.0
+      }
+    ],
+    "7525106": [
+      {
+        "data": "2026-02-23",
+        "descricao": "COMBUSTÍVEL IX35. - IX35 GL - ANO: 2019 PLACA: POI3787",
+        "valor": -80.0
+      }
+    ],
+    "6707185": [
+      {
+        "data": "2025-02-21",
+        "descricao": "UBER PARA DEIXAR CARRO NO BERG. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -14.97
+      },
+      {
+        "data": "2025-03-06",
+        "descricao": "4 PNEUS L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -3140.0
+      },
+      {
+        "data": "2025-03-10",
+        "descricao": "REVISÃO L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -5464.0
+      },
+      {
+        "data": "2025-03-14",
+        "descricao": "CONSERTO RETROVISOR ESQUERDO. L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -30.0
+      },
+      {
+        "data": "2025-03-14",
+        "descricao": "TROCA DO ÓLEO DO CÂMBIO. L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -1080.0
+      },
+      {
+        "data": "2025-04-11",
+        "descricao": "FUNILARIA L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -2800.0
+      },
+      {
+        "data": "2025-04-12",
+        "descricao": "COMBUSTÍVEL L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -50.0
+      },
+      {
+        "data": "2025-04-14",
+        "descricao": "ASA DE URUBU E PROTETOR DA CAIXA DE RODA DO LADO ESQUERDO. L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -320.0
+      },
+      {
+        "data": "2025-04-14",
+        "descricao": "UBER PEGAR CARRO NO CRISTIANO. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -14.94
+      },
+      {
+        "data": "2025-04-26",
+        "descricao": "TROCA DE 4 PEÇAS, REVESTIMENTO DO CÂMBIO E RECUPERAÇÃO MARÍTIMA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -580.0
+      },
+      {
+        "data": "2025-04-30",
+        "descricao": "TAMPA DA MAÇANETA. L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -122.14
+      },
+      {
+        "data": "2025-06-27",
+        "descricao": "COMBUSTÍVEL L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -100.0
+      },
+      {
+        "data": "2025-07-25",
+        "descricao": "DESEMPENAR BANCO MOTORISTA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -40.0
+      },
+      {
+        "data": "2025-07-25",
+        "descricao": "SELETOR DE CÂMBIO L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -950.86
+      },
+      {
+        "data": "2025-07-25",
+        "descricao": "IPVA L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -1818.71
+      },
+      {
+        "data": "2025-07-28",
+        "descricao": "UBER L200 PRATA PEGAR NA TROCA DO SELETOR. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -7.7
+      },
+      {
+        "data": "2025-07-28",
+        "descricao": "COLOCAR SELETOR DE CÂMBIO. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -300.0
+      },
+      {
+        "data": "2025-07-28",
+        "descricao": "UBER DEIXAR CARRO NO VITOR. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -24.96
+      },
+      {
+        "data": "2025-07-29",
+        "descricao": "UBER L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -6.25
+      },
+      {
+        "data": "2025-07-29",
+        "descricao": "RETROVISOR INTERNO L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -140.65
+      },
+      {
+        "data": "2025-08-01",
+        "descricao": "UBER L200 PEGAR NO CÂMBIO. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -18.97
+      },
+      {
+        "data": "2025-08-01",
+        "descricao": "RECUPERAÇÃO DO CÂMBIO L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -14000.0
+      },
+      {
+        "data": "2025-08-07",
+        "descricao": "ALINHAMENTO L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -88.0
+      },
+      {
+        "data": "2025-09-16",
+        "descricao": "UBER TOP MAIS. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -29.7
+      },
+      {
+        "data": "2025-09-22",
+        "descricao": "ENVELOPAMENTO L200 PRATA. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -300.0
+      },
+      {
+        "data": "2025-10-29",
+        "descricao": "UBER DEIXAR NO BERG. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -6.94
+      },
+      {
+        "data": "2025-11-01",
+        "descricao": "SENSOR DE NÍVEL. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": -647.0
+      },
+      {
+        "data": "2026-02-09",
+        "descricao": "JUROS CARTÃO L200. - L200 TRITON 3.2 D - ANO: 2013 PLACA: OID1075",
+        "valor": 267.0
+      }
+    ],
+    "7465185": [
+      {
+        "data": "2026-01-16",
+        "descricao": "LICENCIAMENTO NMAX BRANCA. - NMAX 160 - ANO: 2022 PLACA: SBA6E00",
+        "valor": -188.96
+      },
+      {
+        "data": "2026-03-16",
+        "descricao": "BATERIA NMAX BRANCA. - NMAX 160 - ANO: 2022 PLACA: SBA6E00",
+        "valor": -175.0
+      }
+    ],
+    "7907669": [
+      {
+        "data": "2026-03-20",
+        "descricao": "REVISÃO ONIX CONCESSIONÁRIA. - ONIX PLUS 10TAT LTZ - ANO: 2021 PLACA: RIA8G83",
+        "valor": -1041.2
+      },
+      {
+        "data": "2026-03-24",
+        "descricao": "COMBUSTÍVEL ONIX PRETO. - ONIX PLUS 10TAT LTZ - ANO: 2021 PLACA: RIA8G83",
+        "valor": -100.0
+      },
+      {
+        "data": "2026-03-27",
+        "descricao": "REFLETOR DO PARACHOQUE. - ONIX PLUS 10TAT LTZ - ANO: 2021 PLACA: RIA8G83",
+        "valor": -95.0
+      },
+      {
+        "data": "2026-03-27",
+        "descricao": "FUNILARIA ONIX PRETO. - ONIX 1.0 TAT LTZ - ANO: 2021 PLACA: RIA8G83",
+        "valor": -700.0
+      },
+      {
+        "data": "2026-03-28",
+        "descricao": "DSP ONIX PRETO. - ONIX 1.0 TAT LTZ - ANO: 2021 PLACA: RIA8G83",
+        "valor": -170.0
+      }
+    ],
+    "7818873": [
+      {
+        "data": "2026-02-21",
+        "descricao": "REVISÃO ONIX AZUL. - ONIX PLUS 10TAT PR2 - ANO: 2020 PLACA: POI3F02",
+        "valor": -329.0
+      }
+    ],
+    "7602449": [
+      {
+        "data": "2025-12-08",
+        "descricao": "COMBUSTÍVEL Q3 BRANCA. - Q3 1.4 TFSI - ANO: 2017 PLACA: PIY3A30",
+        "valor": -70.0
+      },
+      {
+        "data": "2025-12-10",
+        "descricao": "TRANSPORTE Q3 BRANCA. (PAGO PELO VINI E DEVOLVIDO) - Q3 1.4 TFSI - ANO: 2017 PLACA: PIY3A30",
+        "valor": -700.0
+      },
+      {
+        "data": "2025-12-16",
+        "descricao": "REVISÃO Q3 BRANCA. - Q3 1.4 TFSI - ANO: 2017 PLACA: PIY3A30",
+        "valor": -2505.0
+      },
+      {
+        "data": "2025-12-19",
+        "descricao": "FUNILARIA Q3 BRANCA. - Q3 1.4 TFSI - ANO: 2017 PLACA: PIY3A30",
+        "valor": -1150.0
+      },
+      {
+        "data": "2026-01-23",
+        "descricao": "COMBUSTÍVEL Q3 BRANCO. - Q3 1.4 TFSI - ANO: 2017 PLACA: PIY3A30",
+        "valor": -80.0
+      },
+      {
+        "data": "2026-02-21",
+        "descricao": "CUSTO DE COMBUSTÍVEL E LANCHE E ALMOÇO PARA DEIXAR Q3. - Q3 1.4 TFSI - ANO: 2017 PLACA: PIY3A30",
+        "valor": -550.0
+      },
+      {
+        "data": "2026-02-27",
+        "descricao": "SEDEX DOCUMENTO. - Q3 1.4 TFSI - ANO: 2017 PLACA: PIY3A30",
+        "valor": -29.7
+      }
+    ],
+    "7798459": [
+      {
+        "data": "2026-02-19",
+        "descricao": "COMBUSTÍVEL RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-02-19",
+        "descricao": "TRANSPORTE RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -800.0
+      },
+      {
+        "data": "2026-02-23",
+        "descricao": "LAVAGEM RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -420.0
+      },
+      {
+        "data": "2026-02-23",
+        "descricao": "REPARO VIDRO RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -150.0
+      },
+      {
+        "data": "2026-02-25",
+        "descricao": "DSP RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -500.0
+      },
+      {
+        "data": "2026-02-26",
+        "descricao": "2 PNEUS RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -2398.0
+      },
+      {
+        "data": "2026-03-07",
+        "descricao": "TROCA DE ÓLEO E FILTRO BERG. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -427.0
+      },
+      {
+        "data": "2026-03-10",
+        "descricao": "CAPOTA DA RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -450.0
+      },
+      {
+        "data": "2026-03-10",
+        "descricao": "PNEU E ALINHAMENTO E BALANCEAMENTO RANGER. OS CLIENTE PAGOU UM PNEU DELA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -1305.0
+      },
+      {
+        "data": "2026-03-10",
+        "descricao": "COMBUSTÍVEL RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-18",
+        "descricao": "FILTRO RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -94.0
+      },
+      {
+        "data": "2026-03-25",
+        "descricao": "METADE DA BATERIA RANGER VERMELHA. - RANGER LTDCD4A32C - ANO: 2021 PLACA: QTG4D66",
+        "valor": -440.0
+      }
+    ],
+    "7765407": [
+      {
+        "data": "2026-02-19",
+        "descricao": "COMBUSTÍVEL TIGGO. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-02-19",
+        "descricao": "TRANSPORTE TIGGO. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -800.0
+      },
+      {
+        "data": "2026-02-24",
+        "descricao": "FUNILARIA DA TIGGO, PINTURA DA MOLDURA DO PARACHOQUE TRASEIRO. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -250.0
+      },
+      {
+        "data": "2026-03-02",
+        "descricao": "RECUPERAÇÃO DE CAIXA DE DIREÇÃO TIGGO PRETA. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -850.0
+      },
+      {
+        "data": "2026-03-02",
+        "descricao": "COMBUSTÍVEL TIGGO PRETA. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-06",
+        "descricao": "LAVAGEM TIGGO PRETO. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -350.0
+      },
+      {
+        "data": "2026-03-10",
+        "descricao": "CAPOTARIA TIGGO PRETA. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -180.0
+      },
+      {
+        "data": "2026-03-11",
+        "descricao": "COMBUSTÍVEL TIGGO PRETA. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-12",
+        "descricao": "DSP TIGGO PRETA. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -450.0
+      },
+      {
+        "data": "2026-03-20",
+        "descricao": "PINTURA CAPO E PARA-CHOQUE. - TIGGO 7 PRO 16T - ANO: 2023 PLACA: RSK4G82",
+        "valor": -800.0
+      }
+    ],
+    "7759061": [
+      {
+        "data": "2026-02-27",
+        "descricao": "DESCONTO DADO PELO PROPRIETÁRIO NA VENDA DO CARRO, DE 116900 PARA 113 MIL. - TIGUAN ALLSPACE CL - ANO: 2018 PLACA: POJ4B08",
+        "valor": 3900.0
+      }
+    ],
+    "7835592": [
+      {
+        "data": "2026-03-05",
+        "descricao": "COMBUSTÍVEL TIGUAN PRETA. - TIGUAN ALLSPACE RL - ANO: 2020 PLACA: POT0A63",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-03-05",
+        "descricao": "TRANSFERENCIA. - TIGUAN ALLSPACE RL - ANO: 2020 PLACA: POT0A63",
+        "valor": -1000.0
+      },
+      {
+        "data": "2026-03-13",
+        "descricao": "DSP TIGUAN. - TIGUAN ALLSPACE RL - ANO: 2020 PLACA: POT0A63",
+        "valor": -320.0
+      },
+      {
+        "data": "2026-03-20",
+        "descricao": "FUNILARIA TIGUAN PRETA. - TIGUAN ALLSPACE RL - ANO: 2020 PLACA: POT0A63",
+        "valor": -1650.0
+      },
+      {
+        "data": "2026-03-26",
+        "descricao": "REVISÃO TIGUAN PRETA. - TIGUAN ALLSPACE RL - ANO: 2020 PLACA: POT0A63",
+        "valor": -7500.0
+      }
+    ],
+    "7826899": [
+      {
+        "data": "2026-02-23",
+        "descricao": "TORO COMBUSTÍVEL. - TORO VOLCANO AT D4 - ANO: 2018 PLACA: PKN0B34",
+        "valor": -50.0
+      },
+      {
+        "data": "2026-03-05",
+        "descricao": "PARCELA 2 IPVA TORO. - TORO VOLCANO AT D4 - ANO: 2018 PLACA: PKN0B34",
+        "valor": -577.54
+      },
+      {
+        "data": "2026-03-11",
+        "descricao": "SEDEX TORO. - TORO VOLCANO AT D4 - ANO: 2018 PLACA: PKN0B34",
+        "valor": -29.7
+      }
+    ],
+    "7417174": [
+      {
+        "data": "2025-10-24",
+        "descricao": "UBER PEGAR NO BERG. SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -11.92
+      },
+      {
+        "data": "2025-10-24",
+        "descricao": "REVISÃO SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -4854.0
+      },
+      {
+        "data": "2025-10-24",
+        "descricao": "2 PNEUS SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -1618.0
+      },
+      {
+        "data": "2025-10-24",
+        "descricao": "UBER SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -11.91
+      },
+      {
+        "data": "2025-11-06",
+        "descricao": "COMBUSTÍVEL SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -50.0
+      },
+      {
+        "data": "2025-11-10",
+        "descricao": "FAROL SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -200.0
+      },
+      {
+        "data": "2025-11-11",
+        "descricao": "COMBUSTÍVEL SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -100.0
+      },
+      {
+        "data": "2025-11-24",
+        "descricao": "CORREIA POLY V. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -848.0
+      },
+      {
+        "data": "2025-12-02",
+        "descricao": "CAPOTARIA SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -280.0
+      },
+      {
+        "data": "2025-12-26",
+        "descricao": "COMBUSTÍVEL SW4. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -70.0
+      },
+      {
+        "data": "2026-03-23",
+        "descricao": "COMBUSTÍVEL SW4 BRANCA. - TOYOTA HILUX SW4 SRV4X4 - ANO: 2015 PLACA: PMF2403",
+        "valor": -50.0
+      }
+    ]
+  },
+  "contas_a_pagar": [
+    {
+      "vencimento": "2026-04-01",
+      "dre": "SIM",
+      "fornecedor": "Não informado",
+      "descricao": "VOLANTE CRETA PRETA. - CRETA 1TA PLATINUM - Ano: 2024 Placa: SNY7A83",
+      "valor": 180.0
+    },
+    {
+      "vencimento": "2026-04-01",
+      "dre": "NÃO",
+      "fornecedor": "NEWSEDAN COMERCIO DE VEICULOS LTDA",
+      "descricao": "ENTRADA NO ESTOQUE - Q3 1.4TFSI BRANCO 2021 ROB1A48",
+      "valor": 132480.0
+    },
+    {
+      "vencimento": "2026-04-01",
+      "dre": "NÃO",
+      "fornecedor": "NEW SEDAN SOBRAL",
+      "descricao": "ENTRADA NO ESTOQUE - COMPASS LIMITED D CINZA 2021 RIF4B17",
+      "valor": 99380.0
+    },
+    {
+      "vencimento": "2026-04-01",
+      "dre": "SIM",
+      "fornecedor": "VINICIUS CARVALHO DOS SANTOS",
+      "descricao": "PRÓ-LABORE (FIXO)",
+      "valor": 3500.0
+    },
+    {
+      "vencimento": "2026-04-01",
+      "dre": "SIM",
+      "fornecedor": "Vitor Ferreira de Saboy",
+      "descricao": "PRÓ-LABORE (FIXO)",
+      "valor": 3500.0
+    },
+    {
+      "vencimento": "",
+      "dre": "",
+      "fornecedor": "",
+      "descricao": "",
+      "valor": 239040.0
+    },
+    {
+      "vencimento": "",
+      "dre": "",
+      "fornecedor": "",
+      "descricao": "",
+      "valor": 0
+    },
+    {
+      "vencimento": "2026-04-02",
+      "dre": "SIM",
+      "fornecedor": "MICROSOFT",
+      "descricao": "EMAILS(FIXO) cartão nubank vinicius\n\nPIX: 85996482850",
+      "valor": 137.15
+    },
+    {
+      "vencimento": "",
+      "dre": "",
+      "fornecedor": "",
+      "descricao": "",
+      "valor": 137.15
+    },
+    {
+      "vencimento": "",
+      "dre": "",
+      "fornecedor": "",
+      "descricao": "",
+      "valor": 0
+    },
+    {
+      "vencimento": "2026-04-05",
+      "dre": "SIM",
+      "fornecedor": "REVENDA MAIS",
+      "descricao": "REVENDA MAIS DEZEMBRO/2023.",
+      "valor": 450.0
+    },
+    {
+      "vencimento": "2026-04-05",
+      "dre": "SIM",
+      "fornecedor": "ENEL",
+      "descricao": "ENERGIA (FIXO)",
+      "valor": 587.33
+    },
+    {
+      "vencimento": "2026-04-05",
+      "dre": "SIM",
+      "fornecedor": "Leandro",
+      "descricao": "Lavador (FIXO)",
+      "valor": 700.0
+    },
+    {
+      "vencimento": "",
+      "dre": "",
+      "fornecedor": "",
+      "descricao": "",
+      "valor": 1737.33
+    },
+    {
+      "vencimento": "",
+      "dre": "",
+      "fornecedor": "",
+      "descricao": "",
+      "valor": 0
+    },
+    {
+      "vencimento": "",
+      "dre": "",
+      "fornecedor": "",
+      "descricao": "",
+      "valor": 240914.47999999998
+    }
+  ]
+}
